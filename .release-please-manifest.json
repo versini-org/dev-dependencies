@@ -1,3 +1,4 @@
 {
-  "packages/client": "1.0.1"
+  "packages/client": "1.0.1",
+  "packages/server": "1.0.0"
 }
