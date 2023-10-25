@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "license": "MIT",
   "author": "Arno Versini",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "6.1.4",
     "@testing-library/react": "14.0.0",

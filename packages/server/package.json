@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": "Arno Versini",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@jest/globals": "29.7.0",
     "@swc/cli": "0.1.62",
