@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.0.0...dev-dependencies-server-v1.0.1) (2023-10-25)
+
+
+### Bug Fixes
+
+* marking packages as public ([1ee055a](https://github.com/aversini/dev-dependencies/commit/1ee055a29908fbf77d30d0e14f20af8e0cc0acc0))
+
 ## 1.0.0 (2023-10-25)
 
 
