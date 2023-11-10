@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.1.0...dev-dependencies-server-v1.1.1) (2023-11-10)
+
+
+### Bug Fixes
+
+* update server dependencies to use common ([1f4ce42](https://github.com/aversini/dev-dependencies/commit/1f4ce42bdb47902c58467dbebf2a5c54f80e03bd))
+
 ## [1.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.0.1...dev-dependencies-server-v1.1.0) (2023-11-10)
 
 
