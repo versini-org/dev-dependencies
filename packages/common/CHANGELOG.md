@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v1.1.0...dev-dependencies-common-v1.1.1) (2023-11-13)
+
+
+### Bug Fixes
+
+* remove useless resolution directive ([86fe458](https://github.com/aversini/dev-dependencies/commit/86fe458fe2f01fe66f0daf013780fd41ca80ad2f))
+
 ## [1.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v1.0.1...dev-dependencies-common-v1.1.0) (2023-11-13)
 
 
