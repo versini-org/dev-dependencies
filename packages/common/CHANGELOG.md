@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v1.1.2...dev-dependencies-common-v1.2.0) (2023-11-27)
+
+
+### Features
+
+* adding eslint plugin for tailwind ([091e993](https://github.com/aversini/dev-dependencies/commit/091e9930d30fb15c767823359279cfa6b3d95665))
+
 ## [1.1.2](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v1.1.1...dev-dependencies-common-v1.1.2) (2023-11-27)
 
 
