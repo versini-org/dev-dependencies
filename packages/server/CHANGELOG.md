@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.4](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.2.3...dev-dependencies-server-v1.2.4) (2023-11-27)
+
+
+### Bug Fixes
+
+* update client and server deps with common ([0cf5286](https://github.com/aversini/dev-dependencies/commit/0cf52864760f4afcbae85ae4fbe2ae6367fec1f4))
+
 ## [1.2.3](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.2.2...dev-dependencies-server-v1.2.3) (2023-11-27)
 
 
