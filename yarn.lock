@@ -2747,6 +2747,7 @@ __metadata:
     eslint-plugin-react-refresh: "npm:0.4.4"
     eslint-plugin-simple-import-sort: "npm:10.0.0"
     eslint-plugin-sort-keys-fix: "npm:1.1.2"
+    eslint-plugin-tailwindcss: "npm:3.13.0"
     eslint-plugin-unicorn: "npm:49.0.0"
     husky: "npm:8.0.3"
     jsdom: "npm:23.0.0"
@@ -5257,6 +5258,18 @@ __metadata:
     natural-compare: "npm:^1.4.0"
     requireindex: "npm:~1.2.0"
   checksum: 4b916168b1d295cc4eca37a0ede149534ce3a25df0501ef92fdbda3ea2c6e8bdd2c25a2d6bce7cdf31900f34edbde3c45b4062f5b4fcefa82ce9ac49f2958615
+  languageName: node
+  linkType: hard
+
+"eslint-plugin-tailwindcss@npm:3.13.0":
+  version: 3.13.0
+  resolution: "eslint-plugin-tailwindcss@npm:3.13.0"
+  dependencies:
+    fast-glob: "npm:^3.2.5"
+    postcss: "npm:^8.4.4"
+  peerDependencies:
+    tailwindcss: ^3.3.2
+  checksum: 37ec12cf70c465c296272ec79fe07ba059423a162adff0c0bbf2b114738454ec537681e8ec30cc0ac3cdd95df0c85eb07fab95c19bbad6d6acc175f27eabb31d
   languageName: node
   linkType: hard
 
@@ -9983,7 +9996,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:8.4.31, postcss@npm:^8.4.23, postcss@npm:^8.4.27":
+"postcss@npm:8.4.31, postcss@npm:^8.4.23, postcss@npm:^8.4.27, postcss@npm:^8.4.4":
   version: 8.4.31
   resolution: "postcss@npm:8.4.31"
   dependencies:
