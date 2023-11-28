@@ -1,5 +1,5 @@
 {
-  "packages/client": "1.2.4",
-  "packages/server": "1.2.4",
+  "packages/client": "1.2.5",
+  "packages/server": "1.2.5",
   "packages/common": "2.0.0"
 }
