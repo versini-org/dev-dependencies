@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v1.2.0...dev-dependencies-common-v2.0.0) (2023-11-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* removing client dependencies from common
+
+### Bug Fixes
+
+* removing client dependencies from common ([fabcc21](https://github.com/aversini/dev-dependencies/commit/fabcc2159b8b8ad59d568f9b6d25bd5f7605a816))
+
 ## [1.2.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v1.1.2...dev-dependencies-common-v1.2.0) (2023-11-27)
 
 
