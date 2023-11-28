@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v1.2.5...dev-dependencies-client-v1.3.0) (2023-11-28)
+
+
+### Features
+
+* adding back prettier-plugin-tailwindcss ([6c0a752](https://github.com/aversini/dev-dependencies/commit/6c0a752531d7ae57128b17af6de3402263b91458))
+
 ## [1.2.5](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v1.2.4...dev-dependencies-client-v1.2.5) (2023-11-28)
 
 
