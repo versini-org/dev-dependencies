@@ -2126,9 +2126,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@testing-library/jest-dom@npm:6.1.4":
-  version: 6.1.4
-  resolution: "@testing-library/jest-dom@npm:6.1.4"
+"@testing-library/jest-dom@npm:6.1.5":
+  version: 6.1.5
+  resolution: "@testing-library/jest-dom@npm:6.1.5"
   dependencies:
     "@adobe/css-tools": "npm:^4.3.1"
     "@babel/runtime": "npm:^7.9.2"
@@ -2152,7 +2152,7 @@ __metadata:
       optional: true
     vitest:
       optional: true
-  checksum: 2e23f120613fd8ae6d5169bbc94f1a2e4c82b07182057dc94db8ec54ebf32555833442e6c43a187e59715d83704ffb5df49ba88a71f6f32d2683f3d95ba721c7
+  checksum: f3643a56fcd970b5c7e8fd10faf3c4817d8ab0e74fb1198d726643bdc5ac675ceaac3b0068c5b4fbad254470e8f98ed50028741de875a29ceaa2f854570979c9
   languageName: node
   linkType: hard
 
@@ -2861,23 +2861,23 @@ __metadata:
   resolution: "@versini/dev-dependencies-client@workspace:packages/client"
   dependencies:
     "@testing-library/dom": "npm:9.3.3"
-    "@testing-library/jest-dom": "npm:6.1.4"
+    "@testing-library/jest-dom": "npm:6.1.5"
     "@testing-library/react": "npm:14.1.2"
     "@testing-library/user-event": "npm:14.5.1"
-    "@versini/dev-dependencies-common": "npm:2.0.0"
+    "@versini/dev-dependencies-common": "npm:2.0.1"
     "@vitejs/plugin-react-swc": "npm:3.5.0"
     "@vitest/coverage-v8": "npm:0.34.6"
     "@vitest/ui": "npm:0.34.6"
     autoprefixer: "npm:10.4.16"
     eslint-plugin-react-hooks: "npm:4.6.0"
-    eslint-plugin-react-refresh: "npm:0.4.4"
-    postcss: "npm:8.4.31"
-    prettier-plugin-tailwindcss: "npm:0.5.7"
+    eslint-plugin-react-refresh: "npm:0.4.5"
+    postcss: "npm:8.4.32"
+    prettier-plugin-tailwindcss: "npm:0.5.9"
     react: "npm:>=18.0.0"
     react-dom: "npm:>=18.0.0"
-    tailwindcss: "npm:3.3.5"
+    tailwindcss: "npm:3.3.6"
     vite: "npm:4.5.0"
-    vite-plugin-dts: "npm:3.6.3"
+    vite-plugin-dts: "npm:3.6.4"
     vite-plugin-lib-inject-css: "npm:1.3.0"
     vitest: "npm:0.34.6"
   languageName: unknown
@@ -2922,7 +2922,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@versini/dev-dependencies-common@workspace:packages/common":
+"@versini/dev-dependencies-common@npm:2.0.1, @versini/dev-dependencies-common@workspace:packages/common":
   version: 0.0.0-use.local
   resolution: "@versini/dev-dependencies-common@workspace:packages/common"
   dependencies:
@@ -5466,12 +5466,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-react-refresh@npm:0.4.4":
-  version: 0.4.4
-  resolution: "eslint-plugin-react-refresh@npm:0.4.4"
+"eslint-plugin-react-refresh@npm:0.4.5":
+  version: 0.4.5
+  resolution: "eslint-plugin-react-refresh@npm:0.4.5"
   peerDependencies:
     eslint: ">=7"
-  checksum: 7c606de39b7d81f878f9747d96a8e626652c9133b90c7f9bd2921f314c3525393bbd97affc3640351dd4108465e2fb87c8883dab5557242d764be32811c6ae69
+  checksum: ea696811c6264d2efee10efe07f80aaae75ded66c941d8d5ce65e15e6c4bb8ad50ac225310ed04f35ed68d2d57937ba4c6f06d9306e78931d583648abf496a41
   languageName: node
   linkType: hard
 
@@ -9201,7 +9201,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nanoid@npm:^3.3.6":
+"nanoid@npm:^3.3.6, nanoid@npm:^3.3.7":
   version: 3.3.7
   resolution: "nanoid@npm:3.3.7"
   bin:
@@ -10391,7 +10391,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:8.4.31, postcss@npm:^8.4.23, postcss@npm:^8.4.27":
+"postcss@npm:8.4.32":
+  version: 8.4.32
+  resolution: "postcss@npm:8.4.32"
+  dependencies:
+    nanoid: "npm:^3.3.7"
+    picocolors: "npm:^1.0.0"
+    source-map-js: "npm:^1.0.2"
+  checksum: 39308a9195fa34d4dbdd7b58a896cff0c7809f84f7a4ac1b95b68ca86c9138a395addff33075668ed3983d41b90aac05754c445237a9365eb1c3a5602ebd03ad
+  languageName: node
+  linkType: hard
+
+"postcss@npm:^8.4.23, postcss@npm:^8.4.27":
   version: 8.4.31
   resolution: "postcss@npm:8.4.31"
   dependencies:
@@ -10409,20 +10420,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier-plugin-tailwindcss@npm:0.5.7":
-  version: 0.5.7
-  resolution: "prettier-plugin-tailwindcss@npm:0.5.7"
+"prettier-plugin-tailwindcss@npm:0.5.9":
+  version: 0.5.9
+  resolution: "prettier-plugin-tailwindcss@npm:0.5.9"
   peerDependencies:
     "@ianvs/prettier-plugin-sort-imports": "*"
     "@prettier/plugin-pug": "*"
     "@shopify/prettier-plugin-liquid": "*"
-    "@shufo/prettier-plugin-blade": "*"
     "@trivago/prettier-plugin-sort-imports": "*"
     prettier: ^3.0
     prettier-plugin-astro: "*"
     prettier-plugin-css-order: "*"
     prettier-plugin-import-sort: "*"
     prettier-plugin-jsdoc: "*"
+    prettier-plugin-marko: "*"
     prettier-plugin-organize-attributes: "*"
     prettier-plugin-organize-imports: "*"
     prettier-plugin-style-order: "*"
@@ -10433,8 +10444,6 @@ __metadata:
     "@prettier/plugin-pug":
       optional: true
     "@shopify/prettier-plugin-liquid":
-      optional: true
-    "@shufo/prettier-plugin-blade":
       optional: true
     "@trivago/prettier-plugin-sort-imports":
       optional: true
@@ -10458,7 +10467,7 @@ __metadata:
       optional: true
     prettier-plugin-twig-melody:
       optional: true
-  checksum: 581820b6b7c9a3dee623b8ad720f1e0b3be36d97e5bb5d51d8734edd31271d763a33e285205f397633ff03a27c82e48aed40103c7d326bce44f47fdf94958deb
+  checksum: 6f2827214adf169de80ce4e2c278b94bb4d06d2a432204ef86a609c4e4c517e2b1281e70a0777762b0916927599e7dba6ad45802f55509f93a1ca393dc3265cb
   languageName: node
   linkType: hard
 
@@ -11946,9 +11955,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:3.3.5":
-  version: 3.3.5
-  resolution: "tailwindcss@npm:3.3.5"
+"tailwindcss@npm:3.3.6":
+  version: 3.3.6
+  resolution: "tailwindcss@npm:3.3.6"
   dependencies:
     "@alloc/quick-lru": "npm:^5.2.0"
     arg: "npm:^5.0.2"
@@ -11975,7 +11984,7 @@ __metadata:
   bin:
     tailwind: lib/cli.js
     tailwindcss: lib/cli.js
-  checksum: a57c0a9cdba9db19097e34e25b7e4690fab43f31ba200afc3bb9635a03036ca93e9884a17b616fb8a2486d57d2ecc9a06862ce4685b3ace57f7a67436e7594a0
+  checksum: 69caade773249cb963c33e81f85b7fc423dcb74b416727483f434f4e12874187f633970c9de864fa96736289abaf71189314a53589ada0be6c09ccb0e8b78391
   languageName: node
   linkType: hard
 
@@ -12747,9 +12756,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-plugin-dts@npm:3.6.3":
-  version: 3.6.3
-  resolution: "vite-plugin-dts@npm:3.6.3"
+"vite-plugin-dts@npm:3.6.4":
+  version: 3.6.4
+  resolution: "vite-plugin-dts@npm:3.6.4"
   dependencies:
     "@microsoft/api-extractor": "npm:^7.38.0"
     "@rollup/pluginutils": "npm:^5.0.5"
@@ -12763,7 +12772,7 @@ __metadata:
   peerDependenciesMeta:
     vite:
       optional: true
-  checksum: 24211aca2dabd132cebbc8f0478f4463cf99ad23d594f466295b4d854a0aff383258c28082fc72cb3b94cd04bedc5c922b3700a26278ad8c64d8629daa21a9d8
+  checksum: 2b10eea10a78a370e0c1f34f6f2a8fe3bc7cc8dc59cb67386e0d0db05c896a7db05f9a86c5ec50c2588c8d3d835b9a13ca829ce15e6e9825bfd86ff9453f835d
   languageName: node
   linkType: hard
 
