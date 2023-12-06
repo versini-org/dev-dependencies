@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.6](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.2.5...dev-dependencies-server-v1.2.6) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump non-breaking server dev dependencies ([e9f09e7](https://github.com/aversini/dev-dependencies/commit/e9f09e77b1223eedb37c23603fdb21b871e8ce46))
+
 ## [1.2.5](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.2.4...dev-dependencies-server-v1.2.5) (2023-11-28)
 
 
