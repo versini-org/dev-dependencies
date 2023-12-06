@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v1.3.1...dev-dependencies-client-v2.0.0) (2023-12-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* bumping breaking client dependencies - vite and vitest
+
+### Features
+
+* bumping breaking client dependencies - vite and vitest ([a06a42e](https://github.com/aversini/dev-dependencies/commit/a06a42e49d9b8c980b7213a7b9ec8f408ff64ddf))
+
 ## [1.3.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v1.3.0...dev-dependencies-client-v1.3.1) (2023-12-06)
 
 
