@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v1.3.0...dev-dependencies-client-v1.3.1) (2023-12-06)
+
+
+### Bug Fixes
+
+* bump non-breaking client dev dependencies ([9525508](https://github.com/aversini/dev-dependencies/commit/95255081b4ba10e85474ad777a5ec5ddc43c10ac))
+
 ## [1.3.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v1.2.5...dev-dependencies-client-v1.3.0) (2023-11-28)
 
 
