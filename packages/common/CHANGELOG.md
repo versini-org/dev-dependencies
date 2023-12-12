@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v2.0.1...dev-dependencies-common-v2.0.2) (2023-12-12)
+
+
+### Bug Fixes
+
+* bump common non-breaking dev dependencies ([c49c26b](https://github.com/aversini/dev-dependencies/commit/c49c26b7546e60ac392446cdbaac7de28738db7e))
+
 ## [2.0.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v2.0.0...dev-dependencies-common-v2.0.1) (2023-12-06)
 
 
