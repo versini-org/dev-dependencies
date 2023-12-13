@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v2.0.2...dev-dependencies-common-v2.1.0) (2023-12-13)
+
+
+### Features
+
+* adding happy-dom to common deps ([06e8762](https://github.com/aversini/dev-dependencies/commit/06e876235ce0109ce817ca41227732b8c80e2751))
+
 ## [2.0.2](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v2.0.1...dev-dependencies-common-v2.0.2) (2023-12-12)
 
 
