@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.8](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.2.7...dev-dependencies-server-v1.2.8) (2023-12-13)
+
+
+### Bug Fixes
+
+* bump common deps for client and server ([b0a7e8c](https://github.com/aversini/dev-dependencies/commit/b0a7e8c6635c02326ceff068a4797096d199cf4e))
+
 ## [1.2.7](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.2.6...dev-dependencies-server-v1.2.7) (2023-12-12)
 
 
