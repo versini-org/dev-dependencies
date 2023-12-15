@@ -6,6 +6,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  },
   "devDependencies": {
     "react": ">=18.0.0",
     "react-dom": ">=18.0.0"
@@ -20,6 +24,7 @@
     "@vitest/coverage-v8": "1.0.4",
     "@vitest/ui": "1.0.4",
     "autoprefixer": "10.4.16",
+    "eslint-plugin-react": "7.33.2",
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-react-refresh": "0.4.5",
     "postcss": "8.4.32",
