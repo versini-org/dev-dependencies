@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v2.0.2...dev-dependencies-client-v2.1.0) (2023-12-15)
+
+
+### Features
+
+* adding eslint-plugin-react to client dependencies ([8138815](https://github.com/aversini/dev-dependencies/commit/813881510186d1a04ce834c53e3fe36130c14308))
+
 ## [2.0.2](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v2.0.1...dev-dependencies-client-v2.0.2) (2023-12-13)
 
 
