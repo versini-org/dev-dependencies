@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v2.1.0...dev-dependencies-common-v2.2.0) (2023-12-16)
+
+
+### Features
+
+* move types to independent package ([19d1571](https://github.com/aversini/dev-dependencies/commit/19d15710996ed663011caa591fa7f720ac2739c9))
+
 ## [2.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v2.0.2...dev-dependencies-common-v2.1.0) (2023-12-13)
 
 
