@@ -64,7 +64,6 @@ typings/
 # Generated folders
 dist
 build
-types
 .swc
 
 # Yarn v4
