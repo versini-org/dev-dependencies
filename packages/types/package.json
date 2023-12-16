@@ -1,0 +1,20 @@
+{
+  "name": "@versini/dev-dependencies-types",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Arno Versini",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@types/fs-extra": "11.0.4",
+    "@types/jest": "29.5.11",
+    "@types/lodash-es": "4.17.12",
+    "@types/node": "20.10.4",
+    "@types/node-notifier": "8.0.5",
+    "@types/react": "18.2.45",
+    "@types/react-dom": "18.2.18",
+    "@types/uuid": "9.0.7",
+    "@types/yargs": "17.0.32"
+  }
+}
