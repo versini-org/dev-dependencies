@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.2.8...dev-dependencies-server-v2.0.0) (2023-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* types are now a peer dependency
+
+### Features
+
+* types are now a peer dependency ([3db2fc7](https://github.com/aversini/dev-dependencies/commit/3db2fc73b93b93284f6d34f374e3754f0b1237ea))
+
 ## [1.2.8](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.2.7...dev-dependencies-server-v1.2.8) (2023-12-13)
 
 
