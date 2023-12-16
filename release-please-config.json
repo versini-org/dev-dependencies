@@ -2,6 +2,7 @@
   "packages": {
     "packages/common": {},
     "packages/client": {},
-    "packages/server": {}
+    "packages/server": {},
+    "packages/types": {}
   }
 }
