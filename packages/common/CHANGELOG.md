@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v2.2.0...dev-dependencies-common-v3.0.0) (2023-12-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* update breaking common dependencies
+
+### Features
+
+* update breaking common dependencies ([4921e3a](https://github.com/aversini/dev-dependencies/commit/4921e3a6f47edd7ff6a57bb96c166d7c962d69d9))
+
 ## [2.2.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v2.1.0...dev-dependencies-common-v2.2.0) (2023-12-16)
 
 
