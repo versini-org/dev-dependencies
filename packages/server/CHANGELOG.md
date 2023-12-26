@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v2.0.0...dev-dependencies-server-v3.0.0) (2023-12-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* update breaking server dependencies
+
+### Features
+
+* update breaking server dependencies ([c8f1ddc](https://github.com/aversini/dev-dependencies/commit/c8f1ddcd0866f4d7e86cb2d7477ad53e77780b60))
+
 ## [2.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v1.2.8...dev-dependencies-server-v2.0.0) (2023-12-16)
 
 

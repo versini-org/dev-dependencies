@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v3.0.0...dev-dependencies-client-v4.0.0) (2023-12-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* update breaking client dependencies
+
+### Features
+
+* update breaking client dependencies ([f11cf2e](https://github.com/aversini/dev-dependencies/commit/f11cf2ed70bb6ec64c265374f08ec9f87a5030ea))
+
 ## [3.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v2.1.0...dev-dependencies-client-v3.0.0) (2023-12-16)
 
 
