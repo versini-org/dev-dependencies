@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.0.0...dev-dependencies-common-v3.1.0) (2024-01-03)
+
+
+### Features
+
+* adding glob and culori ([4a8362f](https://github.com/aversini/dev-dependencies/commit/4a8362f155df9529fd4c1858db6bf5c95a5e7298))
+
+
+### Bug Fixes
+
+* update non-breaking common dependencies ([702e20d](https://github.com/aversini/dev-dependencies/commit/702e20d5b80571f80dce6bf6d9566f478bf198a8))
+
 ## [3.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v2.2.0...dev-dependencies-common-v3.0.0) (2023-12-26)
 
 
