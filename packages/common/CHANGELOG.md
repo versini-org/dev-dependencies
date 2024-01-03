@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.1.0...dev-dependencies-common-v3.1.1) (2024-01-03)
+
+
+### Bug Fixes
+
+* removing latest glob which breaks everything ([9f5ea5b](https://github.com/aversini/dev-dependencies/commit/9f5ea5be5ce0689303110b4e0719f0d54ceeffe0))
+
 ## [3.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.0.0...dev-dependencies-common-v3.1.0) (2024-01-03)
 
 
