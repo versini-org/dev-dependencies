@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v4.0.2...dev-dependencies-client-v4.1.0) (2024-01-07)
+
+
+### Features
+
+* **client:** adding @testing-library/react-hooks ([31c22c2](https://github.com/aversini/dev-dependencies/commit/31c22c2e1fc6ad4301a207b3082c940696f8fc92))
+
 ## [4.0.2](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v4.0.1...dev-dependencies-client-v4.0.2) (2024-01-03)
 
 
