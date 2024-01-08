@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.0.2...dev-dependencies-types-v1.0.3) (2024-01-08)
+
+
+### Bug Fixes
+
+* **types:** update types to latest ([8c8b78f](https://github.com/aversini/dev-dependencies/commit/8c8b78f1b36706b2c94af7f559fa8a879e7ee1a7))
+
 ## [1.0.2](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.0.1...dev-dependencies-types-v1.0.2) (2024-01-03)
 
 
