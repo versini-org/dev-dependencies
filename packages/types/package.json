@@ -7,6 +7,7 @@
     "access": "public"
   },
   "dependencies": {
+    "@types/culori": "2.0.4",
     "@types/fs-extra": "11.0.4",
     "@types/jest": "29.5.11",
     "@types/lodash-es": "4.17.12",
