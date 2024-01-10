@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.0.3...dev-dependencies-types-v1.1.0) (2024-01-10)
+
+
+### Features
+
+* **types:** adding culori types ([2cdd8db](https://github.com/aversini/dev-dependencies/commit/2cdd8dbd3576fc0dab22c62d10e9eb71943d5a5a))
+
 ## [1.0.3](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.0.2...dev-dependencies-types-v1.0.3) (2024-01-08)
 
 
