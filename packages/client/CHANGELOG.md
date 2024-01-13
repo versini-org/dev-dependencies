@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.3](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v4.1.2...dev-dependencies-client-v4.1.3) (2024-01-13)
+
+
+### Bug Fixes
+
+* **client:** vitest 1.2.0 hungs on faketimers - reverting to 1.1.3 ([f1fe820](https://github.com/aversini/dev-dependencies/commit/f1fe820b1571d52cb0dd986fa44212893b1e54da))
+
 ## [4.1.2](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v4.1.1...dev-dependencies-client-v4.1.2) (2024-01-13)
 
 
