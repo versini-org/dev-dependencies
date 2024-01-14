@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.4](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v4.1.3...dev-dependencies-client-v4.1.4) (2024-01-14)
+
+
+### Bug Fixes
+
+* **client:** bump to latest vitest and happy dom ([cd75210](https://github.com/aversini/dev-dependencies/commit/cd75210083e1e7852975b1680a99d9815f64d163))
+
 ## [4.1.3](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v4.1.2...dev-dependencies-client-v4.1.3) (2024-01-13)
 
 
