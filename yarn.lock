@@ -2803,7 +2803,7 @@ __metadata:
     eslint-plugin-simple-import-sort: "npm:10.0.0"
     eslint-plugin-sort-keys-fix: "npm:1.1.2"
     eslint-plugin-unicorn: "npm:50.0.1"
-    happy-dom: "npm:13.0.7"
+    happy-dom: "npm:13.1.4"
     husky: "npm:8.0.3"
     jsdom: "npm:23.2.0"
     lerna: "npm:8.0.2"
@@ -6462,9 +6462,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"happy-dom@npm:13.0.7":
-  version: 13.0.7
-  resolution: "happy-dom@npm:13.0.7"
+"happy-dom@npm:13.1.4":
+  version: 13.1.4
+  resolution: "happy-dom@npm:13.1.4"
   dependencies:
     css.escape: "npm:^1.5.1"
     entities: "npm:^4.5.0"
@@ -6472,7 +6472,7 @@ __metadata:
     webidl-conversions: "npm:^7.0.0"
     whatwg-encoding: "npm:^2.0.0"
     whatwg-mimetype: "npm:^3.0.0"
-  checksum: bec3bad8a9f0b056134702e15d6612bc1d7d82877d31a2b18b10ad912e2a89c9444c892280fb7ba0ce8b82ef7b058bb6af55f53f034f0e5c29bbcda19208aed9
+  checksum: 438bd749fe44d2cabb63f9d4c3e393c46bd6ffdadd9407f376255a04f74ba76ed5fe210f60ef0757361c6f36a33b09bf9aadbc89a087fb509921edca6182703c
   languageName: node
   linkType: hard
 
