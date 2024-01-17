@@ -2413,6 +2413,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/bytes@npm:3.1.4":
+  version: 3.1.4
+  resolution: "@types/bytes@npm:3.1.4"
+  checksum: 4649550082e279f32a76a1dda31c3f88370eadfcd0b25fb7cbd22b22ffcc2be45ebe5486c14025acba0718247edb55e376255dcca6d759c833ce4c962e22b683
+  languageName: node
+  linkType: hard
+
 "@types/cacheable-request@npm:^6.0.1":
   version: 6.0.3
   resolution: "@types/cacheable-request@npm:6.0.3"
@@ -2627,12 +2634,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:20.11.0":
-  version: 20.11.0
-  resolution: "@types/node@npm:20.11.0"
+"@types/node@npm:20.11.5":
+  version: 20.11.5
+  resolution: "@types/node@npm:20.11.5"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 560aa850dfccb83326f9cba125459f6c3fb0c71ec78f22c61e4d248f1df78bd25fd6792cef573dfbdc49c882f8e38bb1a82ca87e0e28ff2513629c704c2b02af
+  checksum: 6d18cec852f5cfbed3ec42b5c01c026e7a3f9da540d6e3d6738d4cee9979fb308cf27b6df7ba40a6553e7bc82e678f0ef53ba6e6ad52e5b86bd97b7783c2a42c
   languageName: node
   linkType: hard
 
@@ -2691,14 +2698,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:18.2.47":
-  version: 18.2.47
-  resolution: "@types/react@npm:18.2.47"
+"@types/react@npm:18.2.48":
+  version: 18.2.48
+  resolution: "@types/react@npm:18.2.48"
   dependencies:
     "@types/prop-types": "npm:*"
     "@types/scheduler": "npm:*"
     csstype: "npm:^3.0.2"
-  checksum: e98ea1827fe60636d0f7ce206397159a29fc30613fae43e349e32c10ad3c0b7e0ed2ded2f3239e07bd5a3cba8736b6114ba196acccc39905ca4a06f56a8d2841
+  checksum: 7e89f18ea2928b1638f564b156d692894dcb9352a7e0a807873c97e858abe1f23dbd165a25dd088a991344e973fdeef88ba5724bfb64504b74072cbc9c220c3a
   languageName: node
   linkType: hard
 
@@ -2999,14 +3006,15 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@versini/dev-dependencies-types@workspace:packages/types"
   dependencies:
+    "@types/bytes": "npm:3.1.4"
     "@types/culori": "npm:2.0.4"
     "@types/express": "npm:4.17.21"
     "@types/fs-extra": "npm:11.0.4"
     "@types/jest": "npm:29.5.11"
     "@types/lodash-es": "npm:4.17.12"
-    "@types/node": "npm:20.11.0"
+    "@types/node": "npm:20.11.5"
     "@types/node-notifier": "npm:8.0.5"
-    "@types/react": "npm:18.2.47"
+    "@types/react": "npm:18.2.48"
     "@types/react-dom": "npm:18.2.18"
     "@types/uuid": "npm:9.0.7"
     "@types/yargs": "npm:17.0.32"
