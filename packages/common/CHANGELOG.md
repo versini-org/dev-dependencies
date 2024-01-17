@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.5](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.1.4...dev-dependencies-common-v3.1.5) (2024-01-17)
+
+
+### Bug Fixes
+
+* **common:** bump dependencies ([867428d](https://github.com/aversini/dev-dependencies/commit/867428d0d84adbb45fe164136db37f652bfa5fa6))
+
 ## [3.1.4](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.1.3...dev-dependencies-common-v3.1.4) (2024-01-14)
 
 
