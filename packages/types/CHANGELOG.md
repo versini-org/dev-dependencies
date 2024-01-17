@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.1.1...dev-dependencies-types-v1.1.2) (2024-01-17)
+
+
+### Bug Fixes
+
+* **types:** adding express types ([f9f877e](https://github.com/aversini/dev-dependencies/commit/f9f877ef6332080ffaf21cbb78cb8f924046c345))
+* **types:** bump types to latest ([a6b66ed](https://github.com/aversini/dev-dependencies/commit/a6b66edb348c420601409b341a38bef82c05e7f4))
+
 ## [1.1.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.1.0...dev-dependencies-types-v1.1.1) (2024-01-13)
 
 
