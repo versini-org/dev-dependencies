@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.7](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.1.6...dev-dependencies-common-v3.1.7) (2024-01-20)
+
+
+### Bug Fixes
+
+* **common:** bump to culori to latest ([418159a](https://github.com/aversini/dev-dependencies/commit/418159ab7e3ccc03e078b6ac73a645c6776e7f77))
+
 ## [3.1.6](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.1.5...dev-dependencies-common-v3.1.6) (2024-01-20)
 
 
