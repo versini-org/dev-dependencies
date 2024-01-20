@@ -3057,7 +3057,7 @@ __metadata:
     bundlemon: "npm:2.0.2"
     chokidar: "npm:3.5.3"
     cross-env: "npm:7.0.3"
-    culori: "npm:3.3.0"
+    culori: "npm:4.0.0"
     danger: "npm:11.3.1"
     dotenv: "npm:16.3.2"
     eslint: "npm:8.56.0"
@@ -4950,10 +4950,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"culori@npm:3.3.0":
-  version: 3.3.0
-  resolution: "culori@npm:3.3.0"
-  checksum: acd330a8f940dc22f36650ba722c9302a4745fee3c8fb40a27ac27228767e2cba4221c2dc414fce652b82cb264d28f65d8b76d505df402ecf94dbb9e440319e1
+"culori@npm:4.0.0":
+  version: 4.0.0
+  resolution: "culori@npm:4.0.0"
+  checksum: ad55271463149e842b0da605e5d88bc22e62c700d8d457c633143fa2f39faf8d4170ee38e0c739349077097958e89888491df99883f880f1ba126bcd9f63afe8
   languageName: node
   linkType: hard
 
