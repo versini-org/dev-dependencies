@@ -3020,7 +3020,7 @@ __metadata:
     "@versini/dev-dependencies-common": "npm:3.1.8"
     "@vitejs/plugin-react-swc": "npm:3.5.0"
     "@vitest/coverage-v8": "npm:1.2.1"
-    "@vitest/ui": "npm:1.2.1"
+    "@vitest/ui": "npm:1.2.2"
     autoprefixer: "npm:10.4.17"
     eslint-plugin-react: "npm:7.33.2"
     eslint-plugin-react-hooks: "npm:4.6.0"
@@ -3218,11 +3218,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitest/ui@npm:1.2.1":
-  version: 1.2.1
-  resolution: "@vitest/ui@npm:1.2.1"
+"@vitest/ui@npm:1.2.2":
+  version: 1.2.2
+  resolution: "@vitest/ui@npm:1.2.2"
   dependencies:
-    "@vitest/utils": "npm:1.2.1"
+    "@vitest/utils": "npm:1.2.2"
     fast-glob: "npm:^3.3.2"
     fflate: "npm:^0.8.1"
     flatted: "npm:^3.2.9"
@@ -3231,7 +3231,7 @@ __metadata:
     sirv: "npm:^2.0.4"
   peerDependencies:
     vitest: ^1.0.0
-  checksum: 826b16743860df1cc8a08153e5ae09567c39b9a0a82dc9c62599173e98653c32ff9feb9b783db52f444bd0c352b8d28634acf5c703b7a0cfe8d722fa5ff4c338
+  checksum: 4ca2ffa74cbf89c338d72b399f318d036a01adb6f12226db93a60e621437510f24ded14e8853817a8ee1576036d0a42d25b8e784cb5aff31ab00837ffc1b484d
   languageName: node
   linkType: hard
 
@@ -3244,6 +3244,18 @@ __metadata:
     loupe: "npm:^2.3.7"
     pretty-format: "npm:^29.7.0"
   checksum: 8943d48e0b2c6f266e4f5eab549787dc7506841e95cb498b17521a339032a99ddd3f4df8ba9844dfb9b80693fb58850f0bda74ea15d1356c644caedfc864cc37
+  languageName: node
+  linkType: hard
+
+"@vitest/utils@npm:1.2.2":
+  version: 1.2.2
+  resolution: "@vitest/utils@npm:1.2.2"
+  dependencies:
+    diff-sequences: "npm:^29.6.3"
+    estree-walker: "npm:^3.0.3"
+    loupe: "npm:^2.3.7"
+    pretty-format: "npm:^29.7.0"
+  checksum: 32449cb7eca8ecea56e0fce280c9770f65fa6b60bbba73be06ca2891096818899b4b3220bd3c815df8beb4266034db394fcf235e4de8959cce686b8b360948d1
   languageName: node
   linkType: hard
 
