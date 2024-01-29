@@ -23,7 +23,7 @@
     "eslint-plugin-unicorn": "50.0.1",
     "fs-extra": "11.2.0",
     "happy-dom": "13.2.1",
-    "husky": "8.0.3",
+    "husky": "9.0.7",
     "jsdom": "24.0.0",
     "lerna": "8.0.2",
     "lint-staged": "15.2.0",
