@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.9](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.1.8...dev-dependencies-common-v3.1.9) (2024-02-03)
+
+
+### Bug Fixes
+
+* **common:** bump to latest and remove CLIs ([acdac78](https://github.com/aversini/dev-dependencies/commit/acdac78d413d9b215141f3e11c2d94e89c502d81))
+
 ## [3.1.8](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.1.7...dev-dependencies-common-v3.1.8) (2024-01-23)
 
 
