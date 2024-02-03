@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.10](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v3.0.9...dev-dependencies-server-v3.0.10) (2024-02-03)
+
+
+### Bug Fixes
+
+* bump to latest and add CLIs ([2495acd](https://github.com/aversini/dev-dependencies/commit/2495acd36c6d68b8a1adb5218ea5183fe7d29b51))
+
 ## [3.0.9](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v3.0.8...dev-dependencies-server-v3.0.9) (2024-01-23)
 
 
