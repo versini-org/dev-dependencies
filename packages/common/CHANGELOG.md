@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.1.9...dev-dependencies-common-v3.2.0) (2024-02-04)
+
+
+### Features
+
+* **common:** adding glob ([e8e1683](https://github.com/aversini/dev-dependencies/commit/e8e1683861abe132014022ff64f1691fbed0512e))
+
 ## [3.1.9](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.1.8...dev-dependencies-common-v3.1.9) (2024-02-03)
 
 
