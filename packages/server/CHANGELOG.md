@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.11](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v3.0.10...dev-dependencies-server-v3.0.11) (2024-02-04)
+
+
+### Bug Fixes
+
+* bump to latest common deps ([6a28d3a](https://github.com/aversini/dev-dependencies/commit/6a28d3af1b394d28dd8726e87de0a06ba1917af4))
+
 ## [3.0.10](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v3.0.9...dev-dependencies-server-v3.0.10) (2024-02-03)
 
 
