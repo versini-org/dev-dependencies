@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.13](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v3.0.12...dev-dependencies-server-v3.0.13) (2024-02-08)
+
+
+### Bug Fixes
+
+* bump client and server dependencies ([0aebdc9](https://github.com/aversini/dev-dependencies/commit/0aebdc91d575412597796fc4ccbbb9bc69b0b0c4))
+
 ## [3.0.12](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v3.0.11...dev-dependencies-server-v3.0.12) (2024-02-06)
 
 
