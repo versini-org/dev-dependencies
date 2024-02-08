@@ -6,6 +6,11 @@
   "publishConfig": {
     "access": "public"
   },
+  "homepage": "https://github.com/aversini/dev-dependencies/tree/main/packages/common",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aversini/dev-dependencies.git"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "6.21.0",
     "@typescript-eslint/parser": "6.21.0",

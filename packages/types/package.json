@@ -6,6 +6,11 @@
   "publishConfig": {
     "access": "public"
   },
+  "homepage": "https://github.com/aversini/dev-dependencies/tree/main/packages/types",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aversini/dev-dependencies.git"
+  },
   "dependencies": {
     "@types/bytes": "3.1.4",
     "@types/culori": "2.1.0",
