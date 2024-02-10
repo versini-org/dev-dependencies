@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.14](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v4.1.13...dev-dependencies-client-v4.1.14) (2024-02-10)
+
+
+### Bug Fixes
+
+* bump client and server dependencies ([fe9467c](https://github.com/aversini/dev-dependencies/commit/fe9467c8949a64f969b4aa4266ee1a8d0dff7abe))
+
 ## [4.1.13](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v4.1.12...dev-dependencies-client-v4.1.13) (2024-02-08)
 
 
