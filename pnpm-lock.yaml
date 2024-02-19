@@ -24,10 +24,10 @@ importers:
         version: 14.5.2(@testing-library/dom@9.3.4)
       '@versini/dev-dependencies-common':
         specifier: 3.2.2
-        version: 3.2.2(eslint@8.56.0)
+        version: link:../common
       '@versini/dev-dependencies-types':
         specifier: '>=1.1.4'
-        version: 1.1.5
+        version: link:../types
       '@vitejs/plugin-react-swc':
         specifier: 3.6.0
         version: 3.6.0(vite@5.1.1)
@@ -128,8 +128,8 @@ importers:
         specifier: 4.0.1
         version: 4.0.1
       dotenv:
-        specifier: 16.4.1
-        version: 16.4.1
+        specifier: 16.4.4
+        version: 16.4.4
       eslint-config-prettier:
         specifier: 9.1.0
         version: 9.1.0(eslint@8.56.0)
@@ -177,10 +177,10 @@ importers:
         version: 0.2.36(@swc/core@1.4.0)
       '@versini/dev-dependencies-common':
         specifier: 3.2.2
-        version: 3.2.2(eslint@8.56.0)
+        version: link:../common
       '@versini/dev-dependencies-types':
         specifier: '>=1.1.4'
-        version: 1.1.5
+        version: link:../types
       barrelsby:
         specifier: 2.8.1
         version: 2.8.1
@@ -216,7 +216,7 @@ importers:
         version: 5.0.5
       tsup:
         specifier: 8.0.2
-        version: 8.0.2(@swc/core@1.4.0)(typescript@5.3.3)
+        version: 8.0.2(@swc/core@1.4.0)
 
   packages/types:
     dependencies:
@@ -2675,48 +2675,6 @@ packages:
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
     dev: false
 
-  /@versini/dev-dependencies-common@3.2.2(eslint@8.56.0):
-    resolution: {integrity: sha512-15alTmceRiCiYzKZP/jtiQv+SMowie3qV561nNW6Y4gEEuneVt7F1b/zOVvHkQgX+s+ChlTFRSKiGBaDXtbRsA==}
-    dependencies:
-      '@typescript-eslint/eslint-plugin': 6.21.0(@typescript-eslint/parser@6.21.0)(eslint@8.56.0)(typescript@5.3.3)
-      '@typescript-eslint/parser': 6.21.0(eslint@8.56.0)(typescript@5.3.3)
-      chokidar: 3.6.0
-      culori: 4.0.1
-      dotenv: 16.4.1
-      eslint-config-prettier: 9.1.0(eslint@8.56.0)
-      eslint-plugin-simple-import-sort: 12.0.0(eslint@8.56.0)
-      eslint-plugin-sort-keys-fix: 1.1.2
-      eslint-plugin-unicorn: 51.0.1(eslint@8.56.0)
-      fs-extra: 11.2.0
-      glob: 10.3.10
-      happy-dom: 13.3.8
-      jsdom: 24.0.0
-      typescript: 5.3.3
-    transitivePeerDependencies:
-      - bufferutil
-      - canvas
-      - eslint
-      - supports-color
-      - utf-8-validate
-    dev: false
-
-  /@versini/dev-dependencies-types@1.1.5:
-    resolution: {integrity: sha512-kSG46RQShmXthq8/UWBr1wZHZplnqx9XeligsIn9dak1sKWF9Zvv70BiGkeVRQ6akfYo5ji6E4kfkvynGORsIg==}
-    dependencies:
-      '@types/bytes': 3.1.4
-      '@types/culori': 2.1.0
-      '@types/express': 4.17.21
-      '@types/fs-extra': 11.0.4
-      '@types/jest': 29.5.12
-      '@types/lodash-es': 4.17.12
-      '@types/node': 20.11.17
-      '@types/node-notifier': 8.0.5
-      '@types/react': 18.2.55
-      '@types/react-dom': 18.2.19
-      '@types/uuid': 9.0.8
-      '@types/yargs': 17.0.32
-    dev: false
-
   /@vitejs/plugin-react-swc@3.6.0(vite@5.1.1):
     resolution: {integrity: sha512-XFRbsGgpGxGzEV5i5+vRiro1bwcIaZDIdBRP16qwm+jP68ue/S8FJTBEgOeojtVDYrbSua3XFp71kC8VJE6v+g==}
     peerDependencies:
@@ -4278,8 +4236,8 @@ packages:
     engines: {node: '>=12'}
     dev: false
 
-  /dotenv@16.4.1:
-    resolution: {integrity: sha512-CjA3y+Dr3FyFDOAMnxZEGtnW9KBR2M0JvvUtXNW+dYJL5ROWxP9DUHCwgFqpMk0OXCc0ljhaNTr2w/kutYIcHQ==}
+  /dotenv@16.4.4:
+    resolution: {integrity: sha512-XvPXc8XAQThSjAbY6cQ/9PcBXmFoWuw1sQ3b8HqUCR6ziGXjkTi//kB9SWa2UwqlgdAIuRqAa/9hVljzPehbYg==}
     engines: {node: '>=12'}
     dev: false
 
@@ -9882,7 +9840,7 @@ packages:
     resolution: {integrity: sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==}
     dev: false
 
-  /tsup@8.0.2(@swc/core@1.4.0)(typescript@5.3.3):
+  /tsup@8.0.2(@swc/core@1.4.0):
     resolution: {integrity: sha512-NY8xtQXdH7hDUAZwcQdY/Vzlw9johQsaqf7iwZ6g1DOUlFYQ5/AtVAjTvihhEyeRlGo4dLRVHtrRaL35M1daqQ==}
     engines: {node: '>=18'}
     hasBin: true
@@ -9916,7 +9874,6 @@ packages:
       source-map: 0.8.0-beta.0
       sucrase: 3.35.0
       tree-kill: 1.2.2
-      typescript: 5.3.3
     transitivePeerDependencies:
       - supports-color
       - ts-node
