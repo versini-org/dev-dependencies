@@ -24,7 +24,7 @@ importers:
         version: 14.5.2(@testing-library/dom@9.3.4)
       '@versini/dev-dependencies-common':
         specifier: 3.2.3
-        version: 3.2.3(eslint@8.57.0)
+        version: link:../common
       '@vitejs/plugin-react-swc':
         specifier: 3.6.0
         version: 3.6.0(vite@5.1.4)
@@ -140,8 +140,8 @@ importers:
         specifier: 10.3.10
         version: 10.3.10
       happy-dom:
-        specifier: 13.5.0
-        version: 13.5.0
+        specifier: 13.6.2
+        version: 13.6.2
       jsdom:
         specifier: 24.0.0
         version: 24.0.0
@@ -168,7 +168,7 @@ importers:
         version: 0.2.36(@swc/core@1.4.0)
       '@versini/dev-dependencies-common':
         specifier: 3.2.3
-        version: 3.2.3(eslint@8.57.0)
+        version: link:../common
       barrelsby:
         specifier: 2.8.1
         version: 2.8.1
@@ -204,7 +204,7 @@ importers:
         version: 5.0.5
       tsup:
         specifier: 8.0.2
-        version: 8.0.2(@swc/core@1.4.0)(typescript@5.3.3)
+        version: 8.0.2(@swc/core@1.4.0)
 
   packages/types:
     dependencies:
@@ -2661,31 +2661,6 @@ packages:
 
   /@ungap/structured-clone@1.2.0:
     resolution: {integrity: sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==}
-    dev: false
-
-  /@versini/dev-dependencies-common@3.2.3(eslint@8.57.0):
-    resolution: {integrity: sha512-zM2CnFKaLGTWXyUmeGRHQh6tpPXLWB7Pq53Nx9QgkPHaPj3VLIu1a2AyZQA10Pry30MqXaMxmTPtfnTZ7IOmWQ==}
-    dependencies:
-      '@typescript-eslint/eslint-plugin': 7.0.2(@typescript-eslint/parser@7.0.2)(eslint@8.57.0)(typescript@5.3.3)
-      '@typescript-eslint/parser': 7.0.2(eslint@8.57.0)(typescript@5.3.3)
-      chokidar: 3.6.0
-      culori: 4.0.1
-      dotenv: 16.4.5
-      eslint-config-prettier: 9.1.0(eslint@8.57.0)
-      eslint-plugin-simple-import-sort: 12.0.0(eslint@8.57.0)
-      eslint-plugin-sort-keys-fix: 1.1.2
-      eslint-plugin-unicorn: 51.0.1(eslint@8.57.0)
-      fs-extra: 11.2.0
-      glob: 10.3.10
-      happy-dom: 13.5.0
-      jsdom: 24.0.0
-      typescript: 5.3.3
-    transitivePeerDependencies:
-      - bufferutil
-      - canvas
-      - eslint
-      - supports-color
-      - utf-8-validate
     dev: false
 
   /@vitejs/plugin-react-swc@3.6.0(vite@5.1.4):
@@ -5364,8 +5339,8 @@ packages:
       uglify-js: 3.17.4
     dev: false
 
-  /happy-dom@13.5.0:
-    resolution: {integrity: sha512-0XWOSvyc03Z2Ye+VGP5pN6fpwgKMy3a2d09RuGRqAR4TEaW0SCtw3upt7dLoKaYBFUO+JeuDJh366aDBat3OVQ==}
+  /happy-dom@13.6.2:
+    resolution: {integrity: sha512-Ku+wDqcF/KwFA0dI+xIMZd9Jn020RXjuSil/Vz7gu2yhDC3FsDYZ55qqV9k+SGC4opwb4acisXqVSRxUJMlPbQ==}
     engines: {node: '>=16.0.0'}
     dependencies:
       entities: 4.5.0
@@ -9857,7 +9832,7 @@ packages:
     resolution: {integrity: sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==}
     dev: false
 
-  /tsup@8.0.2(@swc/core@1.4.0)(typescript@5.3.3):
+  /tsup@8.0.2(@swc/core@1.4.0):
     resolution: {integrity: sha512-NY8xtQXdH7hDUAZwcQdY/Vzlw9johQsaqf7iwZ6g1DOUlFYQ5/AtVAjTvihhEyeRlGo4dLRVHtrRaL35M1daqQ==}
     engines: {node: '>=18'}
     hasBin: true
@@ -9891,7 +9866,6 @@ packages:
       source-map: 0.8.0-beta.0
       sucrase: 3.35.0
       tree-kill: 1.2.2
-      typescript: 5.3.3
     transitivePeerDependencies:
       - supports-color
       - ts-node
