@@ -23,8 +23,8 @@ importers:
         specifier: 14.5.2
         version: 14.5.2(@testing-library/dom@9.3.4)
       '@versini/dev-dependencies-common':
-        specifier: 3.2.3
-        version: 3.2.3(eslint@8.57.0)
+        specifier: 3.2.4
+        version: link:../common
       '@vitejs/plugin-react-swc':
         specifier: 3.6.0
         version: 3.6.0(vite@5.1.6)
@@ -2546,7 +2546,7 @@ packages:
         optional: true
     dependencies:
       '@eslint-community/regexpp': 4.10.0
-      '@typescript-eslint/parser': 7.0.2(eslint@8.57.0)(typescript@5.4.2)
+      '@typescript-eslint/parser': 7.0.2(eslint@8.57.0)(typescript@5.3.3)
       '@typescript-eslint/scope-manager': 7.0.2
       '@typescript-eslint/type-utils': 7.0.2(eslint@8.57.0)(typescript@5.3.3)
       '@typescript-eslint/utils': 7.0.2(eslint@8.57.0)(typescript@5.3.3)
@@ -2592,7 +2592,7 @@ packages:
       - supports-color
     dev: false
 
-  /@typescript-eslint/parser@7.0.2(eslint@8.57.0)(typescript@5.4.2):
+  /@typescript-eslint/parser@7.0.2(eslint@8.57.0)(typescript@5.3.3):
     resolution: {integrity: sha512-GdwfDglCxSmU+QTS9vhz2Sop46ebNCXpPPvsByK7hu0rFGRHL+AusKQJ7SoN+LbLh6APFpQwHKmDSwN35Z700Q==}
     engines: {node: ^16.0.0 || >=18.0.0}
     peerDependencies:
@@ -2604,11 +2604,11 @@ packages:
     dependencies:
       '@typescript-eslint/scope-manager': 7.0.2
       '@typescript-eslint/types': 7.0.2
-      '@typescript-eslint/typescript-estree': 7.0.2(typescript@5.4.2)
+      '@typescript-eslint/typescript-estree': 7.0.2(typescript@5.3.3)
       '@typescript-eslint/visitor-keys': 7.0.2
       debug: 4.3.4(supports-color@5.5.0)
       eslint: 8.57.0
-      typescript: 5.4.2
+      typescript: 5.3.3
     transitivePeerDependencies:
       - supports-color
     dev: false
@@ -2722,28 +2722,6 @@ packages:
       - supports-color
     dev: false
 
-  /@typescript-eslint/typescript-estree@7.0.2(typescript@5.4.2):
-    resolution: {integrity: sha512-3AMc8khTcELFWcKcPc0xiLviEvvfzATpdPj/DXuOGIdQIIFybf4DMT1vKRbuAEOFMwhWt7NFLXRkbjsvKZQyvw==}
-    engines: {node: ^16.0.0 || >=18.0.0}
-    peerDependencies:
-      typescript: '*'
-    peerDependenciesMeta:
-      typescript:
-        optional: true
-    dependencies:
-      '@typescript-eslint/types': 7.0.2
-      '@typescript-eslint/visitor-keys': 7.0.2
-      debug: 4.3.4(supports-color@5.5.0)
-      globby: 11.1.0
-      is-glob: 4.0.3
-      minimatch: 9.0.3
-      semver: 7.6.0
-      ts-api-utils: 1.2.1(typescript@5.4.2)
-      typescript: 5.4.2
-    transitivePeerDependencies:
-      - supports-color
-    dev: false
-
   /@typescript-eslint/typescript-estree@7.2.0(typescript@5.4.2):
     resolution: {integrity: sha512-cyxS5WQQCoBwSakpMrvMXuMDEbhOo9bNHHrNcEWis6XHx6KF518tkF1wBvKIn/tpq5ZpUYK7Bdklu8qY0MsFIA==}
     engines: {node: ^16.0.0 || >=18.0.0}
@@ -2828,7 +2806,7 @@ packages:
     resolution: {integrity: sha512-zM2CnFKaLGTWXyUmeGRHQh6tpPXLWB7Pq53Nx9QgkPHaPj3VLIu1a2AyZQA10Pry30MqXaMxmTPtfnTZ7IOmWQ==}
     dependencies:
       '@typescript-eslint/eslint-plugin': 7.0.2(@typescript-eslint/parser@7.0.2)(eslint@8.57.0)(typescript@5.3.3)
-      '@typescript-eslint/parser': 7.0.2(eslint@8.57.0)(typescript@5.4.2)
+      '@typescript-eslint/parser': 7.0.2(eslint@8.57.0)(typescript@5.3.3)
       chokidar: 3.6.0
       culori: 4.0.1
       dotenv: 16.4.5
