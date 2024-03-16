@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v3.0.15...dev-dependencies-server-v4.0.0) (2024-03-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* **server:** bump dependencies
+
+### Features
+
+* **server:** bump dependencies ([1566f4a](https://github.com/aversini/dev-dependencies/commit/1566f4a6967c56f591f22acf81231399d74766ba))
+
 ## [3.0.15](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v3.0.14...dev-dependencies-server-v3.0.15) (2024-02-23)
 
 
