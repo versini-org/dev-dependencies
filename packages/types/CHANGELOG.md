@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.8](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.1.7...dev-dependencies-types-v1.1.8) (2024-03-22)
+
+
+### Bug Fixes
+
+* bump types and common dependencies ([ccb7046](https://github.com/aversini/dev-dependencies/commit/ccb70466daf0ba00b5c4c6eac0c62b7abc47fe11))
+
 ## [1.1.7](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.1.6...dev-dependencies-types-v1.1.7) (2024-03-16)
 
 
