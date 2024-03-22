@@ -1,6 +1,6 @@
 {
   "name": "@versini/dev-dependencies-server",
-  "version": "4.0.1",
+  "version": "4.0.0",
   "license": "MIT",
   "author": "Arno Versini",
   "publishConfig": {
@@ -17,7 +17,7 @@
     "@swc/core": "1.4.8",
     "@swc/helpers": "0.5.7",
     "@swc/jest": "0.2.36",
-    "@versini/dev-dependencies-common": "3.2.4",
+    "@versini/dev-dependencies-common": "3.2.5",
     "barrelsby": "2.8.1",
     "cross-env": "7.0.3",
     "eslint": "8.57.0",
