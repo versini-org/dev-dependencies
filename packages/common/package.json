@@ -23,7 +23,7 @@
     "eslint-plugin-unicorn": "51.0.1",
     "fs-extra": "11.2.0",
     "glob": "10.3.10",
-    "happy-dom": "14.3.1",
+    "happy-dom": "14.3.9",
     "jsdom": "24.0.0",
     "typescript": "5.4.3"
   }
