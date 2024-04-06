@@ -1,6 +1,6 @@
 {
   "name": "@versini/dev-dependencies-server",
-  "version": "4.0.0",
+  "version": "4.0.2",
   "license": "MIT",
   "author": "Arno Versini",
   "publishConfig": {
