@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "7.5.0",
-    "@typescript-eslint/parser": "7.5.0",
+    "@typescript-eslint/parser": "7.6.0",
     "chokidar": "3.6.0",
     "culori": "4.0.1",
     "dotenv": "16.4.5",
