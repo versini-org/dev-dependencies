@@ -140,8 +140,8 @@ importers:
         specifier: 10.3.12
         version: 10.3.12
       happy-dom:
-        specifier: 14.6.1
-        version: 14.6.1
+        specifier: 14.7.1
+        version: 14.7.1
       jsdom:
         specifier: 24.0.0
         version: 24.0.0
@@ -5864,8 +5864,8 @@ packages:
       uglify-js: 3.17.4
     dev: false
 
-  /happy-dom@14.6.1:
-    resolution: {integrity: sha512-nIid31b7esld4oWbUyu8PwhBZxxI+8VLp5NeDPSLucVqH/kwM0HCjWm/uSdCcEP1XJJZdzLFsNJm3Mm+2x7erg==}
+  /happy-dom@14.7.1:
+    resolution: {integrity: sha512-v60Q0evZ4clvMcrAh5/F8EdxDdfHdFrtffz/CNe10jKD+nFweZVxM91tW+UyY2L4AtpgIaXdZ7TQmiO1pfcwbg==}
     engines: {node: '>=16.0.0'}
     dependencies:
       entities: 4.5.0
