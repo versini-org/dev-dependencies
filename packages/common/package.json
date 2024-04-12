@@ -12,8 +12,8 @@
     "url": "git@github.com:aversini/dev-dependencies.git"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "7.5.0",
-    "@typescript-eslint/parser": "7.5.0",
+    "@typescript-eslint/eslint-plugin": "7.6.0",
+    "@typescript-eslint/parser": "7.6.0",
     "chokidar": "3.6.0",
     "culori": "4.0.1",
     "dotenv": "16.4.5",
@@ -23,8 +23,8 @@
     "eslint-plugin-unicorn": "52.0.0",
     "fs-extra": "11.2.0",
     "glob": "10.3.12",
-    "happy-dom": "14.6.1",
+    "happy-dom": "14.7.1",
     "jsdom": "24.0.0",
-    "typescript": "5.4.4"
+    "typescript": "5.4.5"
   }
 }
