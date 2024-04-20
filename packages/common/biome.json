@@ -67,9 +67,12 @@
 				"noGlobalEval": "error"
 			},
 			"style": {
+				"noArguments": "error",
 				"noNamespace": "error",
+				"noVar": "error",
 				"useAsConstAssertion": "error",
-				"useBlockStatements": "off"
+				"useBlockStatements": "error",
+				"useConst": "error"
 			},
 			"suspicious": {
 				"noAssignInExpressions": "error",
@@ -109,6 +112,7 @@
 		"ignore": ["dist", ".eslintrc.cjs"]
 	},
 	"javascript": {
+		"globals": ["React"],
 		"formatter": {
 			"arrowParentheses": "always",
 			"attributePosition": "auto",
@@ -123,33 +127,11 @@
 	},
 	"overrides": [
 		{
-			"include": ["*.ts", "*.tsx", "*.mts", "*.cts"],
+			"include": ["*.test.ts", "*.test.tsx"],
 			"linter": {
 				"rules": {
 					"correctness": {
-						"noConstAssign": "off",
-						"noGlobalObjectCalls": "off",
-						"noInvalidConstructorSuper": "off",
-						"noNewSymbol": "off",
-						"noSetterReturn": "off",
-						"noUndeclaredVariables": "off",
-						"noUnreachable": "off",
-						"noUnreachableSuper": "off"
-					},
-					"style": {
-						"noArguments": "error",
-						"noVar": "error",
-						"useConst": "error"
-					},
-					"suspicious": {
-						"noDuplicateClassMembers": "off",
-						"noDuplicateObjectKeys": "off",
-						"noDuplicateParameters": "off",
-						"noFunctionAssign": "off",
-						"noImportAssign": "off",
-						"noRedeclare": "off",
-						"noUnsafeNegation": "off",
-						"useGetterReturn": "off"
+						"noUndeclaredVariables": "off"
 					}
 				}
 			}
