@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.9](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.2.8...dev-dependencies-common-v3.2.9) (2024-04-20)
+
+
+### Bug Fixes
+
+* refined biome rules + extend via node_modules ([#288](https://github.com/aversini/dev-dependencies/issues/288)) ([4e2f5fb](https://github.com/aversini/dev-dependencies/commit/4e2f5fb396b8d256b44cf995d0cf58e64aaa4140))
+
 ## [3.2.8](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.2.7...dev-dependencies-common-v3.2.8) (2024-04-20)
 
 
