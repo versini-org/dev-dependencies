@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.11](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.1.10...dev-dependencies-types-v1.1.11) (2024-04-20)
+
+
+### Bug Fixes
+
+* bump types and adding biome to common ([9746664](https://github.com/aversini/dev-dependencies/commit/974666418cee2dcbd2213ab7d13bf064d1db199e))
+
 ## [1.1.10](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.1.9...dev-dependencies-types-v1.1.10) (2024-04-12)
 
 
