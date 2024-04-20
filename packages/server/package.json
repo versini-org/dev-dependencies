@@ -17,7 +17,7 @@
 		"@swc/core": "1.4.16",
 		"@swc/helpers": "0.5.10",
 		"@swc/jest": "0.2.36",
-		"@versini/dev-dependencies-common": "3.2.8",
+		"@versini/dev-dependencies-common": "3.2.9",
 		"barrelsby": "2.8.1",
 		"cross-env": "7.0.3",
 		"eslint": ">=8.57.0 <9.0.0",
