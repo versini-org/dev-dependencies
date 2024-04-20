@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.8](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.2.7...dev-dependencies-common-v3.2.8) (2024-04-20)
+
+
+### Bug Fixes
+
+* bump types and adding biome to common ([9746664](https://github.com/aversini/dev-dependencies/commit/974666418cee2dcbd2213ab7d13bf064d1db199e))
+
 ## [3.2.7](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v3.2.6...dev-dependencies-common-v3.2.7) (2024-04-12)
 
 

@@ -1,6 +1,6 @@
 {
 	"name": "@versini/dev-dependencies-common",
-	"version": "3.2.7",
+	"version": "3.2.8",
 	"license": "MIT",
 	"author": "Arno Versini",
 	"publishConfig": {
@@ -11,7 +11,9 @@
 		"type": "git",
 		"url": "git@github.com:aversini/dev-dependencies.git"
 	},
-	"files": ["biome.json"],
+	"files": [
+		"biome.json"
+	],
 	"dependencies": {
 		"@biomejs/biome": "1.7.0",
 		"@typescript-eslint/eslint-plugin": "7.7.0",
