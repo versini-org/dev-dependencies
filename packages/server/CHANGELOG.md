@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.0.4](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v4.0.3...dev-dependencies-server-v4.0.4) (2024-04-20)
+
+
+### Bug Fixes
+
+* bump client and server non-breaking dependencies ([#286](https://github.com/aversini/dev-dependencies/issues/286)) ([9cf91b2](https://github.com/aversini/dev-dependencies/commit/9cf91b2f106175075c12b825f56556639817a9d4))
+
 ## [4.0.3](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v4.0.2...dev-dependencies-server-v4.0.3) (2024-04-12)
 
 
