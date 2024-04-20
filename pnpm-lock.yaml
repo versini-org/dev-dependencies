@@ -23,7 +23,7 @@ importers:
         specifier: 14.5.2
         version: 14.5.2(@testing-library/dom@10.0.0)
       '@versini/dev-dependencies-common':
-        specifier: 3.2.8
+        specifier: 3.2.9
         version: link:../common
       '@vitejs/plugin-react-swc':
         specifier: 3.6.0
@@ -170,7 +170,7 @@ importers:
         specifier: 0.2.36
         version: 0.2.36(@swc/core@1.4.16)
       '@versini/dev-dependencies-common':
-        specifier: 3.2.8
+        specifier: 3.2.9
         version: link:../common
       barrelsby:
         specifier: 2.8.1
