@@ -12,16 +12,14 @@
 		"url": "git@github.com:aversini/dev-dependencies.git"
 	},
 	"type": "module",
-	"files": [
-		"biome.json"
-	],
+	"files": ["biome.json"],
 	"exports": {
 		"./biome": "./biome.json"
 	},
 	"dependencies": {
-		"@biomejs/biome": "1.7.0",
-		"@typescript-eslint/eslint-plugin": "7.7.0",
-		"@typescript-eslint/parser": "7.7.0",
+		"@biomejs/biome": "1.7.1",
+		"@typescript-eslint/eslint-plugin": "7.7.1",
+		"@typescript-eslint/parser": "7.7.1",
 		"chokidar": "3.6.0",
 		"culori": "4.0.1",
 		"dotenv": "16.4.5",
