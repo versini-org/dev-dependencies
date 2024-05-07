@@ -1,6 +1,6 @@
 {
 	"name": "@versini/dev-dependencies-common",
-	"version": "3.2.10",
+	"version": "3.2.11",
 	"license": "MIT",
 	"author": "Arno Versini",
 	"publishConfig": {
