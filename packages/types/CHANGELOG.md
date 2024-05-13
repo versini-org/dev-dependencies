@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.2.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.1.13...dev-dependencies-types-v1.2.0) (2024-05-13)
+
+
+### Features
+
+* **types:** adding culori types ([2cdd8db](https://github.com/aversini/dev-dependencies/commit/2cdd8dbd3576fc0dab22c62d10e9eb71943d5a5a))
+
+
+### Bug Fixes
+
+* bump dev dependencies to latest ([#301](https://github.com/aversini/dev-dependencies/issues/301)) ([ed94c9c](https://github.com/aversini/dev-dependencies/commit/ed94c9ce1cd67d6a372f1ef077affb396d8ba61f))
+* bump non-breaking dependencies and types ([c077cac](https://github.com/aversini/dev-dependencies/commit/c077caca0f7600a9c0c0093b7aa5b36a50cb9e8a))
+* bump types and adding biome to common ([9746664](https://github.com/aversini/dev-dependencies/commit/974666418cee2dcbd2213ab7d13bf064d1db199e))
+* bump types and common dependencies ([e498590](https://github.com/aversini/dev-dependencies/commit/e49859074a692e58dfdeb8a303e0995515bffbf7))
+* bump types and common dependencies ([0e295ff](https://github.com/aversini/dev-dependencies/commit/0e295ff88cc278e01ac0409f4589ac6944a47210))
+* bump types and common dependencies ([ccb7046](https://github.com/aversini/dev-dependencies/commit/ccb70466daf0ba00b5c4c6eac0c62b7abc47fe11))
+* bump types and common dependencies ([cfbbce5](https://github.com/aversini/dev-dependencies/commit/cfbbce51eac82e2b4d0e65ea8ff22cdacbac5632))
+* bump types and common dependencies ([d70f68b](https://github.com/aversini/dev-dependencies/commit/d70f68b6ddcbfb70a6498bff623ccf3901d1343e))
+* bump types and common dependencies ([95dd45f](https://github.com/aversini/dev-dependencies/commit/95dd45f3fea9ec782c984b4129e731565524db3c))
+* bump types and common to latest ([0824859](https://github.com/aversini/dev-dependencies/commit/082485986d601082c0fffbe3975dd773e496a5c6))
+* bump types and common to latest ([#308](https://github.com/aversini/dev-dependencies/issues/308)) ([9007068](https://github.com/aversini/dev-dependencies/commit/9007068ec1c5c047108368975120a8f2758e223c))
+* **types:** adding express types ([f9f877e](https://github.com/aversini/dev-dependencies/commit/f9f877ef6332080ffaf21cbb78cb8f924046c345))
+* **types:** bump dependencies ([45938fd](https://github.com/aversini/dev-dependencies/commit/45938fd7f3be20df054144ccc4784238c74f21f8))
+* **types:** bump to latest ([e7ab7ff](https://github.com/aversini/dev-dependencies/commit/e7ab7ff6492151cf356f8fb36db51668d750dcc7))
+* **types:** bump types to latest ([a6b66ed](https://github.com/aversini/dev-dependencies/commit/a6b66edb348c420601409b341a38bef82c05e7f4))
+* **types:** update types to latest ([8c8b78f](https://github.com/aversini/dev-dependencies/commit/8c8b78f1b36706b2c94af7f559fa8a879e7ee1a7))
+* update types and common dependencies ([#310](https://github.com/aversini/dev-dependencies/issues/310)) ([060038a](https://github.com/aversini/dev-dependencies/commit/060038a56f8af1068c4ca4b02e759291388b171a))
+* update types dependencies to latest ([9fa9bf9](https://github.com/aversini/dev-dependencies/commit/9fa9bf911e824445d253d65640fc45f227e1417c))
+
 ## [1.1.12](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.1.11...dev-dependencies-types-v1.1.12) (2024-04-28)
 
 
