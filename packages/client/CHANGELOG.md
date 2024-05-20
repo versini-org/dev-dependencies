@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v5.0.0...dev-dependencies-client-v5.0.1) (2024-05-20)
+
+
+### Bug Fixes
+
+* bump client and server dependencies to latest ([#320](https://github.com/aversini/dev-dependencies/issues/320)) ([72839b5](https://github.com/aversini/dev-dependencies/commit/72839b5fa4d45c30b9ee4ddd58297a8ebf4e1cf9))
+
 ## [5.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v4.1.25...dev-dependencies-client-v5.0.0) (2024-05-13)
 
 
