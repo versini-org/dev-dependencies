@@ -20,7 +20,7 @@
 	},
 	"dependencies": {
 		"@biomejs/biome": "1.7.3",
-		"@typescript-eslint/eslint-plugin": "7.9.0",
+		"@typescript-eslint/eslint-plugin": "7.10.0",
 		"@typescript-eslint/parser": "7.9.0",
 		"chokidar": "3.6.0",
 		"culori": "4.0.1",
