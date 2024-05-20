@@ -1,6 +1,6 @@
 {
 	"packages/client": "5.0.0",
 	"packages/server": "5.0.0",
-	"packages/common": "4.0.0",
-	"packages/types": "1.2.0"
+	"packages/common": "4.0.1",
+	"packages/types": "1.2.1"
 }
