@@ -1,8 +1,9 @@
 {
-  "packages": {
-    "packages/common": {},
-    "packages/client": {},
-    "packages/server": {},
-    "packages/types": {}
-  }
+	"packages": {
+		"packages/common": {},
+		"packages/client": {},
+		"packages/server": {},
+		"packages/types": {},
+		"packages/eslint": {}
+	}
 }

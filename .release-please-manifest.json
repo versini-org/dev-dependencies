@@ -2,5 +2,6 @@
 	"packages/client": "5.0.1",
 	"packages/server": "5.0.1",
 	"packages/common": "4.0.1",
-	"packages/types": "1.2.1"
+	"packages/types": "1.2.1",
+	"packages/eslint": "0.0.0"
 }
