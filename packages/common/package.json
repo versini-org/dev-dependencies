@@ -18,8 +18,6 @@
 	},
 	"dependencies": {
 		"@biomejs/biome": "1.8.0",
-		"@typescript-eslint/eslint-plugin": "7.12.0",
-		"@typescript-eslint/parser": "7.12.0",
 		"chokidar": "3.6.0",
 		"culori": "4.0.1",
 		"dotenv": "16.4.5",
