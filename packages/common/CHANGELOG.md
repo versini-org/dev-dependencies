@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v4.1.0...dev-dependencies-common-v4.1.1) (2024-06-06)
+
+
+### Bug Fixes
+
+* switch console log from error to warning ([#333](https://github.com/aversini/dev-dependencies/issues/333)) ([dd30c40](https://github.com/aversini/dev-dependencies/commit/dd30c408a34b76d5265dc8d391ee4db6bb3df34b))
+
 ## [4.1.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v4.0.1...dev-dependencies-common-v4.1.0) (2024-06-04)
 
 
