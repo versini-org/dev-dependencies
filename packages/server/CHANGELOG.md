@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.1.2](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v5.1.1...dev-dependencies-server-v5.1.2) (2024-08-05)
+
+
+### Bug Fixes
+
+* bump dependencies to latest ([#377](https://github.com/aversini/dev-dependencies/issues/377)) ([1a76ce7](https://github.com/aversini/dev-dependencies/commit/1a76ce7e784eed5e17f6be53ed766a6c6e7d3b99))
+
 ## [5.1.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-server-v5.1.0...dev-dependencies-server-v5.1.1) (2024-07-05)
 
 
