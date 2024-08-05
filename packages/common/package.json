@@ -12,9 +12,7 @@
 		"url": "git@github.com:aversini/dev-dependencies.git"
 	},
 	"type": "module",
-	"files": [
-		"biome.json"
-	],
+	"files": ["biome.json"],
 	"exports": {
 		"./biome": "./biome.json"
 	},
@@ -24,9 +22,9 @@
 		"culori": "4.0.1",
 		"dotenv": "16.4.5",
 		"fs-extra": "11.2.0",
-		"glob": "10.4.2",
+		"glob": "10.4.5",
 		"happy-dom": "14.12.3",
-		"jsdom": "24.1.0",
-		"typescript": "5.5.3"
+		"jsdom": "24.1.1",
+		"typescript": "5.5.4"
 	}
 }
