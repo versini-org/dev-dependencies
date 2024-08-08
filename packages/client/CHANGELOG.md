@@ -1,5 +1,16 @@
 # Changelog
 
+## [6.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v5.1.3...dev-dependencies-client-v6.0.0) (2024-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* bump resbuild dependencies to 1.x ([#384](https://github.com/aversini/dev-dependencies/issues/384))
+
+### Features
+
+* bump resbuild dependencies to 1.x ([#384](https://github.com/aversini/dev-dependencies/issues/384)) ([92b533a](https://github.com/aversini/dev-dependencies/commit/92b533aa7bd56d258eeb229675513bb5909a9f57))
+
 ## [5.1.3](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v5.1.2...dev-dependencies-client-v5.1.3) (2024-08-07)
 
 
