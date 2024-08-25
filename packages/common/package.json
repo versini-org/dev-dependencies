@@ -1,6 +1,6 @@
 {
 	"name": "@versini/dev-dependencies-common",
-	"version": "4.1.3",
+	"version": "4.1.4",
 	"license": "MIT",
 	"author": "Arno Versini",
 	"publishConfig": {
@@ -12,7 +12,9 @@
 		"url": "git@github.com:aversini/dev-dependencies.git"
 	},
 	"type": "module",
-	"files": ["biome.json"],
+	"files": [
+		"biome.json"
+	],
 	"exports": {
 		"./biome": "./biome.json"
 	},

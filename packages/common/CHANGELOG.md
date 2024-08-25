@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.4](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v4.1.3...dev-dependencies-common-v4.1.4) (2024-08-25)
+
+
+### Bug Fixes
+
+* bump non-breaking dependencies to latest ([#393](https://github.com/aversini/dev-dependencies/issues/393)) ([fd672b0](https://github.com/aversini/dev-dependencies/commit/fd672b0836d780b2bd2c60732d5fd954d8437a2c))
+
 ## [4.1.3](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-common-v4.1.2...dev-dependencies-common-v4.1.3) (2024-08-05)
 
 
