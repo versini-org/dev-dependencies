@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.0.1](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v6.0.0...dev-dependencies-client-v6.0.1) (2024-08-25)
+
+
+### Bug Fixes
+
+* bump non-breaking dependencies to latest ([#393](https://github.com/aversini/dev-dependencies/issues/393)) ([fd672b0](https://github.com/aversini/dev-dependencies/commit/fd672b0836d780b2bd2c60732d5fd954d8437a2c))
+
 ## [6.0.0](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-client-v5.1.3...dev-dependencies-client-v6.0.0) (2024-08-08)
 
 
