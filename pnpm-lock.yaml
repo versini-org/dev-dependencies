@@ -39,7 +39,7 @@ importers:
         version: 3.7.0(@swc/helpers@0.5.12)(vite@5.4.2(@types/node@22.5.0)(terser@5.31.4))
       '@vitest/coverage-v8':
         specifier: 1.6.0
-        version: 1.6.0(vitest@1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@14.12.3)(jsdom@24.1.1)(terser@5.31.4))
+        version: 1.6.0(vitest@1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@15.0.0)(jsdom@25.0.0)(terser@5.31.4))
       '@vitest/ui':
         specifier: 1.6.0
         version: 1.6.0(vitest@1.6.0)
@@ -99,7 +99,7 @@ importers:
         version: 2.1.1(vite@5.4.2(@types/node@22.5.0)(terser@5.31.4))
       vitest:
         specifier: 1.6.0
-        version: 1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@14.12.3)(jsdom@24.1.1)(terser@5.31.4)
+        version: 1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@15.0.0)(jsdom@25.0.0)(terser@5.31.4)
 
   packages/common:
     dependencies:
@@ -122,11 +122,11 @@ importers:
         specifier: 10.4.5
         version: 10.4.5
       happy-dom:
-        specifier: 14.12.3
-        version: 14.12.3
+        specifier: 15.0.0
+        version: 15.0.0
       jsdom:
-        specifier: 24.1.1
-        version: 24.1.1
+        specifier: 25.0.0
+        version: 25.0.0
       typescript:
         specifier: 5.5.4
         version: 5.5.4
@@ -3421,9 +3421,9 @@ packages:
     engines: {node: '>=0.4.7'}
     hasBin: true
 
-  happy-dom@14.12.3:
-    resolution: {integrity: sha512-vsYlEs3E9gLwA1Hp+w3qzu+RUDFf4VTT8cyKqVICoZ2k7WM++Qyd2LwzyTi5bqMJFiIC/vNpTDYuxdreENRK/g==}
-    engines: {node: '>=16.0.0'}
+  happy-dom@15.0.0:
+    resolution: {integrity: sha512-DsvANUcxxY20iCo3Yllm7dqwzPVPduGfVFxa7mONwMBLczFeQgkN0LpDir1kIY322JMh+hrcPV3aGLyHCESDlA==}
+    engines: {node: '>=18.0.0'}
 
   hard-rejection@2.1.0:
     resolution: {integrity: sha512-VIZB+ibDhx7ObhAe7OVtoEbuP4h/MuOTHJ+J8h/eBXotJYl0fBgR72xDFCKgIh22OJZIOVNxBMWuhAr10r8HdA==}
@@ -4004,8 +4004,8 @@ packages:
     resolution: {integrity: sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==}
     hasBin: true
 
-  jsdom@24.1.1:
-    resolution: {integrity: sha512-5O1wWV99Jhq4DV7rCLIoZ/UIhyQeDR7wHVyZAHAshbrvZsLs+Xzz7gtwnlJTJDjleiTKh54F4dXrX70vJQTyJQ==}
+  jsdom@25.0.0:
+    resolution: {integrity: sha512-OhoFVT59T7aEq75TVw9xxEfkXgacpqAhQaYgP9y/fDqWQCMB/b1H66RfmPm/MaeaAIU9nDwMOVTlPN51+ao6CQ==}
     engines: {node: '>=18'}
     peerDependencies:
       canvas: ^2.11.2
@@ -8080,7 +8080,7 @@ snapshots:
     transitivePeerDependencies:
       - '@swc/helpers'
 
-  '@vitest/coverage-v8@1.6.0(vitest@1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@14.12.3)(jsdom@24.1.1)(terser@5.31.4))':
+  '@vitest/coverage-v8@1.6.0(vitest@1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@15.0.0)(jsdom@25.0.0)(terser@5.31.4))':
     dependencies:
       '@ampproject/remapping': 2.2.1
       '@bcoe/v8-coverage': 0.2.3
@@ -8095,7 +8095,7 @@ snapshots:
       std-env: 3.7.0
       strip-literal: 2.0.0
       test-exclude: 6.0.0
-      vitest: 1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@14.12.3)(jsdom@24.1.1)(terser@5.31.4)
+      vitest: 1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@15.0.0)(jsdom@25.0.0)(terser@5.31.4)
     transitivePeerDependencies:
       - supports-color
 
@@ -8130,7 +8130,7 @@ snapshots:
       pathe: 1.1.2
       picocolors: 1.0.0
       sirv: 2.0.4
-      vitest: 1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@14.12.3)(jsdom@24.1.1)(terser@5.31.4)
+      vitest: 1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@15.0.0)(jsdom@25.0.0)(terser@5.31.4)
 
   '@vitest/utils@1.6.0':
     dependencies:
@@ -9983,7 +9983,7 @@ snapshots:
     optionalDependencies:
       uglify-js: 3.17.4
 
-  happy-dom@14.12.3:
+  happy-dom@15.0.0:
     dependencies:
       entities: 4.5.0
       webidl-conversions: 7.0.0
@@ -10050,7 +10050,7 @@ snapshots:
   http-proxy-agent@7.0.2:
     dependencies:
       agent-base: 7.1.0
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.6
     transitivePeerDependencies:
       - supports-color
 
@@ -10062,7 +10062,7 @@ snapshots:
   https-proxy-agent@7.0.5:
     dependencies:
       agent-base: 7.1.0
-      debug: 4.3.4(supports-color@5.5.0)
+      debug: 4.3.6
     transitivePeerDependencies:
       - supports-color
 
@@ -10728,7 +10728,7 @@ snapshots:
     dependencies:
       argparse: 2.0.1
 
-  jsdom@24.1.1:
+  jsdom@25.0.0:
     dependencies:
       cssstyle: 4.0.1
       data-urls: 5.0.0
@@ -12949,7 +12949,7 @@ snapshots:
       fsevents: 2.3.3
       terser: 5.31.4
 
-  vitest@1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@14.12.3)(jsdom@24.1.1)(terser@5.31.4):
+  vitest@1.6.0(@types/node@22.5.0)(@vitest/ui@1.6.0)(happy-dom@15.0.0)(jsdom@25.0.0)(terser@5.31.4):
     dependencies:
       '@vitest/expect': 1.6.0
       '@vitest/runner': 1.6.0
@@ -12974,8 +12974,8 @@ snapshots:
     optionalDependencies:
       '@types/node': 22.5.0
       '@vitest/ui': 1.6.0(vitest@1.6.0)
-      happy-dom: 14.12.3
-      jsdom: 24.1.1
+      happy-dom: 15.0.0
+      jsdom: 25.0.0
     transitivePeerDependencies:
       - less
       - lightningcss
