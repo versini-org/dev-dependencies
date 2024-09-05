@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.5](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-types-v1.3.4...dev-dependencies-types-v1.3.5) (2024-09-05)
+
+
+### Bug Fixes
+
+* bump non-breaking dependencies to latest ([#401](https://github.com/versini-org/dev-dependencies/issues/401)) ([9f55a75](https://github.com/versini-org/dev-dependencies/commit/9f55a75792ad9f36f69e27be3190d70ddf058157))
+
 ## [1.3.4](https://github.com/aversini/dev-dependencies/compare/dev-dependencies-types-v1.3.3...dev-dependencies-types-v1.3.4) (2024-08-25)
 
 
