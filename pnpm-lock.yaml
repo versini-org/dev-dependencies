@@ -11,14 +11,14 @@ importers:
   packages/client:
     dependencies:
       '@rsbuild/core':
-        specifier: 1.0.1-rc.4
-        version: 1.0.1-rc.4
+        specifier: 1.0.1-rc.5
+        version: 1.0.1-rc.5
       '@rsbuild/plugin-react':
         specifier: 1.0.1-rc.4
-        version: 1.0.1-rc.4(@rsbuild/core@1.0.1-rc.4)
+        version: 1.0.1-rc.4(@rsbuild/core@1.0.1-rc.5)
       '@rsbuild/plugin-type-check':
         specifier: 1.0.1-rc.4
-        version: 1.0.1-rc.4(@rsbuild/core@1.0.1-rc.4)(@swc/core@1.7.23(@swc/helpers@0.5.13))(esbuild@0.23.0)(typescript@5.5.4)
+        version: 1.0.1-rc.4(@rsbuild/core@1.0.1-rc.5)(@swc/core@1.7.23(@swc/helpers@0.5.13))(esbuild@0.23.0)(typescript@5.5.4)
       '@testing-library/dom':
         specifier: 10.4.0
         version: 10.4.0
@@ -860,6 +860,7 @@ packages:
   '@humanwhocodes/config-array@0.11.14':
     resolution: {integrity: sha512-3T8LkOmg45BV5FICb15QQMsyUSWrQ8AygVfC7ZG32zOalnqrilm018ZVCw0eapXux8FtA33q8PSRSstjee3jSg==}
     engines: {node: '>=10.10.0'}
+    deprecated: Use @eslint/config-array instead
 
   '@humanwhocodes/module-importer@1.0.1':
     resolution: {integrity: sha512-bxveV4V8v5Yb4ncFTT3rPSgZBOpCkjfK0y4oVVVJwIuDVBRMDXrPyXRL988i5ap9m9bnyEEjWfm5WkBmtffLfA==}
@@ -867,6 +868,7 @@ packages:
 
   '@humanwhocodes/object-schema@2.0.2':
     resolution: {integrity: sha512-6EwiSjwWYP7pTckG6I5eyFANjPhmPjUX9JRLUSfNPC7FX7zK9gyZAfUEaECL6ALTpGX5AjnBq3C9XmVWPitNpw==}
+    deprecated: Use @eslint/object-schema instead
 
   '@hutson/parse-repository-url@3.0.2':
     resolution: {integrity: sha512-H9XAx3hc0BQHY6l+IFSWHDySypcXsvsuLhgYLUGywmJ5pswRVQJUHpOsobnLYp2ZUaUlKiKDrgWWhosOwAEM8Q==}
@@ -1323,8 +1325,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@rsbuild/core@1.0.1-rc.4':
-    resolution: {integrity: sha512-JlouV5M+azv9YP6hD11rHeUns8Yk9sQN9QmMCKhutG75j1TCEKmrL0O7UmE89+uKlJTnL5Pyzy29TLO5ncIRjg==}
+  '@rsbuild/core@1.0.1-rc.5':
+    resolution: {integrity: sha512-0+LiFrzvEEhHsizHRXMnbxtvxVvWyGFl33VfLSlOnBwUwgbblq3ehUc4QYK+mla4Zh3DbWRNr9oCdyJa+Qv2MA==}
     engines: {node: '>=16.7.0'}
     hasBin: true
 
@@ -2369,9 +2371,6 @@ packages:
 
   caniuse-lite@1.0.30001649:
     resolution: {integrity: sha512-fJegqZZ0ZX8HOWr6rcafGr72+xcgJKI9oWfDW5DrD7ExUtgZC7a7R7ZYmZqplh7XDocFdGeIFn7roAxhOeYrPQ==}
-
-  caniuse-lite@1.0.30001653:
-    resolution: {integrity: sha512-XGWQVB8wFQ2+9NZwZ10GxTYC5hk0Fa+q8cSkr0tgvMhYhMHP/QC+WTgrePMDBWiWc/pV+1ik82Al20XOK25Gcw==}
 
   caniuse-lite@1.0.30001657:
     resolution: {integrity: sha512-DPbJAlP8/BAXy3IgiWmZKItubb3TYGP0WscQQlVGIfT4s/YlFYVuJgyOsQNP7rJRChx/qdMeLJQJP0Sgg2yjNA==}
@@ -3568,6 +3567,7 @@ packages:
 
   inflight@1.0.6:
     resolution: {integrity: sha512-k92I/b08q4wvFscXCLvqfsHCrjrF7yiXsQuIVvVE7N82W3+aqpzuUdBbfhWcy/FZR3/4IgflMgKLOsvPDrGCJA==}
+    deprecated: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
 
   inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
@@ -7471,7 +7471,7 @@ snapshots:
   '@rollup/rollup-win32-x64-msvc@4.21.2':
     optional: true
 
-  '@rsbuild/core@1.0.1-rc.4':
+  '@rsbuild/core@1.0.1-rc.5':
     dependencies:
       '@rspack/core': 1.0.3(@swc/helpers@0.5.13)
       '@rspack/lite-tapable': 1.0.0
@@ -7481,15 +7481,15 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  '@rsbuild/plugin-react@1.0.1-rc.4(@rsbuild/core@1.0.1-rc.4)':
+  '@rsbuild/plugin-react@1.0.1-rc.4(@rsbuild/core@1.0.1-rc.5)':
     dependencies:
-      '@rsbuild/core': 1.0.1-rc.4
+      '@rsbuild/core': 1.0.1-rc.5
       '@rspack/plugin-react-refresh': 1.0.0(react-refresh@0.14.2)
       react-refresh: 0.14.2
 
-  '@rsbuild/plugin-type-check@1.0.1-rc.4(@rsbuild/core@1.0.1-rc.4)(@swc/core@1.7.23(@swc/helpers@0.5.13))(esbuild@0.23.0)(typescript@5.5.4)':
+  '@rsbuild/plugin-type-check@1.0.1-rc.4(@rsbuild/core@1.0.1-rc.5)(@swc/core@1.7.23(@swc/helpers@0.5.13))(esbuild@0.23.0)(typescript@5.5.4)':
     dependencies:
-      '@rsbuild/core': 1.0.1-rc.4
+      '@rsbuild/core': 1.0.1-rc.5
       deepmerge: 4.3.1
       fork-ts-checker-webpack-plugin: 9.0.2(typescript@5.5.4)(webpack@5.94.0(@swc/core@1.7.23(@swc/helpers@0.5.13))(esbuild@0.23.0))
       json5: 2.2.3
@@ -8599,14 +8599,14 @@ snapshots:
 
   browserslist@4.23.0:
     dependencies:
-      caniuse-lite: 1.0.30001653
+      caniuse-lite: 1.0.30001657
       electron-to-chromium: 1.4.708
       node-releases: 2.0.14
       update-browserslist-db: 1.0.13(browserslist@4.23.0)
 
   browserslist@4.23.3:
     dependencies:
-      caniuse-lite: 1.0.30001649
+      caniuse-lite: 1.0.30001657
       electron-to-chromium: 1.5.4
       node-releases: 2.0.18
       update-browserslist-db: 1.1.0(browserslist@4.23.3)
@@ -8690,8 +8690,6 @@ snapshots:
   camelcase@6.3.0: {}
 
   caniuse-lite@1.0.30001649: {}
-
-  caniuse-lite@1.0.30001653: {}
 
   caniuse-lite@1.0.30001657: {}
 
