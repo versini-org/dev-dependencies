@@ -13,7 +13,7 @@
 	},
 	"dependencies": {
 		"@rsbuild/core": "1.0.1-rc.4",
-		"@rsbuild/plugin-react": "1.0.1-rc.4",
+		"@rsbuild/plugin-react": "1.0.2",
 		"@rsbuild/plugin-type-check": "1.0.1-rc.4",
 		"@testing-library/dom": "10.4.0",
 		"@testing-library/jest-dom": "6.5.0",

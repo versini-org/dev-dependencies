@@ -14,8 +14,8 @@ importers:
         specifier: 1.0.1-rc.4
         version: 1.0.1-rc.4
       '@rsbuild/plugin-react':
-        specifier: 1.0.1-rc.4
-        version: 1.0.1-rc.4(@rsbuild/core@1.0.1-rc.4)
+        specifier: 1.0.2
+        version: 1.0.2(@rsbuild/core@1.0.1-rc.4)
       '@rsbuild/plugin-type-check':
         specifier: 1.0.1-rc.4
         version: 1.0.1-rc.4(@rsbuild/core@1.0.1-rc.4)(@swc/core@1.7.23(@swc/helpers@0.5.13))(esbuild@0.23.0)(typescript@5.5.4)
@@ -860,6 +860,7 @@ packages:
   '@humanwhocodes/config-array@0.11.14':
     resolution: {integrity: sha512-3T8LkOmg45BV5FICb15QQMsyUSWrQ8AygVfC7ZG32zOalnqrilm018ZVCw0eapXux8FtA33q8PSRSstjee3jSg==}
     engines: {node: '>=10.10.0'}
+    deprecated: Use @eslint/config-array instead
 
   '@humanwhocodes/module-importer@1.0.1':
     resolution: {integrity: sha512-bxveV4V8v5Yb4ncFTT3rPSgZBOpCkjfK0y4oVVVJwIuDVBRMDXrPyXRL988i5ap9m9bnyEEjWfm5WkBmtffLfA==}
@@ -867,6 +868,7 @@ packages:
 
   '@humanwhocodes/object-schema@2.0.2':
     resolution: {integrity: sha512-6EwiSjwWYP7pTckG6I5eyFANjPhmPjUX9JRLUSfNPC7FX7zK9gyZAfUEaECL6ALTpGX5AjnBq3C9XmVWPitNpw==}
+    deprecated: Use @eslint/object-schema instead
 
   '@hutson/parse-repository-url@3.0.2':
     resolution: {integrity: sha512-H9XAx3hc0BQHY6l+IFSWHDySypcXsvsuLhgYLUGywmJ5pswRVQJUHpOsobnLYp2ZUaUlKiKDrgWWhosOwAEM8Q==}
@@ -1328,10 +1330,10 @@ packages:
     engines: {node: '>=16.7.0'}
     hasBin: true
 
-  '@rsbuild/plugin-react@1.0.1-rc.4':
-    resolution: {integrity: sha512-1EPBjVgBPd9eQk0rDgm78q/vQDKabTP24+vUKz02iYZDZZPfCRyZrfF3GvKLVJXRW44JqT51ykK9t9oxw/tDtA==}
+  '@rsbuild/plugin-react@1.0.2':
+    resolution: {integrity: sha512-8Sa4AJ43/ift7ZW1iNMA38ZIEDXNINPa8rGI38u7b42yBgMUWBan8yDjFYAC0Gkg3lh8vCWYVQYZp0RyIS7lqA==}
     peerDependencies:
-      '@rsbuild/core': ^1.0.1-rc.4
+      '@rsbuild/core': 1.x || ^1.0.1-rc.0
 
   '@rsbuild/plugin-type-check@1.0.1-rc.4':
     resolution: {integrity: sha512-w1+2UXSKC/6MbH48Je+y59z6nv+raAwpr0eY2OZTkNsFZzVhrhlYvMsN4AuwtyVtzil+zKjWYULQ3l1GY8RDlw==}
@@ -3568,6 +3570,7 @@ packages:
 
   inflight@1.0.6:
     resolution: {integrity: sha512-k92I/b08q4wvFscXCLvqfsHCrjrF7yiXsQuIVvVE7N82W3+aqpzuUdBbfhWcy/FZR3/4IgflMgKLOsvPDrGCJA==}
+    deprecated: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
 
   inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
@@ -7481,7 +7484,7 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  '@rsbuild/plugin-react@1.0.1-rc.4(@rsbuild/core@1.0.1-rc.4)':
+  '@rsbuild/plugin-react@1.0.2(@rsbuild/core@1.0.1-rc.4)':
     dependencies:
       '@rsbuild/core': 1.0.1-rc.4
       '@rspack/plugin-react-refresh': 1.0.0(react-refresh@0.14.2)
