@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.0.5](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-client-v6.0.4...dev-dependencies-client-v6.0.5) (2024-09-19)
+
+
+### Bug Fixes
+
+* bump vitest from 1.x to 2.x ([#419](https://github.com/versini-org/dev-dependencies/issues/419)) ([2f9f1cb](https://github.com/versini-org/dev-dependencies/commit/2f9f1cb4581a1dc618ec5cf4cde82464d43a563e))
+
 ## [6.0.4](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-client-v6.0.3...dev-dependencies-client-v6.0.4) (2024-09-19)
 
 
