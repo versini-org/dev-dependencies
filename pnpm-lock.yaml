@@ -92,8 +92,8 @@ importers:
         specifier: 5.4.8
         version: 5.4.8(@types/node@22.7.4)(terser@5.31.4)
       vite-plugin-dts:
-        specifier: 4.2.2
-        version: 4.2.2(@types/node@22.7.4)(rollup@4.22.5)(typescript@5.5.4)(vite@5.4.8(@types/node@22.7.4)(terser@5.31.4))
+        specifier: 4.2.3
+        version: 4.2.3(@types/node@22.7.4)(rollup@4.22.5)(typescript@5.5.4)(vite@5.4.8(@types/node@22.7.4)(terser@5.31.4))
       vite-plugin-lib-inject-css:
         specifier: 2.1.1
         version: 2.1.1(vite@5.4.8(@types/node@22.7.4)(terser@5.31.4))
@@ -3584,6 +3584,7 @@ packages:
 
   inflight@1.0.6:
     resolution: {integrity: sha512-k92I/b08q4wvFscXCLvqfsHCrjrF7yiXsQuIVvVE7N82W3+aqpzuUdBbfhWcy/FZR3/4IgflMgKLOsvPDrGCJA==}
+    deprecated: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.
 
   inherits@2.0.4:
     resolution: {integrity: sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==}
@@ -6023,8 +6024,8 @@ packages:
     engines: {node: ^18.0.0 || >=20.0.0}
     hasBin: true
 
-  vite-plugin-dts@4.2.2:
-    resolution: {integrity: sha512-USwTMReZFf8yXV+cKkm4WOMqmFjbReAvkyxON5xzdnZzJEBnFgax6BBDZIGGr9WMJYvhHdpaIHLrOjXDcla4OA==}
+  vite-plugin-dts@4.2.3:
+    resolution: {integrity: sha512-O5NalzHANQRwVw1xj8KQun3Bv8OSDAlNJXrnqoAz10BOuW8FVvY5g4ygj+DlJZL5mtSPuMu9vd3OfrdW5d4k6w==}
     engines: {node: ^14.18.0 || >=16.0.0}
     peerDependencies:
       typescript: '*'
@@ -6540,7 +6541,7 @@ snapshots:
   '@babel/template@7.23.9':
     dependencies:
       '@babel/code-frame': 7.23.5
-      '@babel/parser': 7.23.9
+      '@babel/parser': 7.25.6
       '@babel/types': 7.23.9
 
   '@babel/traverse@7.23.9':
@@ -6551,7 +6552,7 @@ snapshots:
       '@babel/helper-function-name': 7.23.0
       '@babel/helper-hoist-variables': 7.22.5
       '@babel/helper-split-export-declaration': 7.22.6
-      '@babel/parser': 7.23.9
+      '@babel/parser': 7.25.6
       '@babel/types': 7.23.9
       debug: 4.3.6(supports-color@5.5.0)
       globals: 11.12.0
@@ -7429,7 +7430,7 @@ snapshots:
 
   '@rollup/pluginutils@5.1.0(rollup@4.22.5)':
     dependencies:
-      '@types/estree': 1.0.5
+      '@types/estree': 1.0.6
       estree-walker: 2.0.2
       picomatch: 2.3.1
     optionalDependencies:
@@ -7835,7 +7836,7 @@ snapshots:
 
   '@types/babel__core@7.20.5':
     dependencies:
-      '@babel/parser': 7.23.9
+      '@babel/parser': 7.25.6
       '@babel/types': 7.23.9
       '@types/babel__generator': 7.6.8
       '@types/babel__template': 7.4.4
@@ -7847,7 +7848,7 @@ snapshots:
 
   '@types/babel__template@7.4.4':
     dependencies:
-      '@babel/parser': 7.23.9
+      '@babel/parser': 7.25.6
       '@babel/types': 7.23.9
 
   '@types/babel__traverse@7.20.5':
@@ -9543,7 +9544,7 @@ snapshots:
 
   estree-walker@3.0.3:
     dependencies:
-      '@types/estree': 1.0.5
+      '@types/estree': 1.0.6
 
   esutils@2.0.3: {}
 
@@ -10315,7 +10316,7 @@ snapshots:
   istanbul-lib-instrument@5.2.1:
     dependencies:
       '@babel/core': 7.23.9
-      '@babel/parser': 7.23.9
+      '@babel/parser': 7.25.6
       '@istanbuljs/schema': 0.1.3
       istanbul-lib-coverage: 3.2.2
       semver: 6.3.1
@@ -12936,7 +12937,7 @@ snapshots:
       - supports-color
       - terser
 
-  vite-plugin-dts@4.2.2(@types/node@22.7.4)(rollup@4.22.5)(typescript@5.5.4)(vite@5.4.8(@types/node@22.7.4)(terser@5.31.4)):
+  vite-plugin-dts@4.2.3(@types/node@22.7.4)(rollup@4.22.5)(typescript@5.5.4)(vite@5.4.8(@types/node@22.7.4)(terser@5.31.4)):
     dependencies:
       '@microsoft/api-extractor': 7.47.7(@types/node@22.7.4)
       '@rollup/pluginutils': 5.1.0(rollup@4.22.5)
