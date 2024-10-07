@@ -19,7 +19,7 @@
 		"./biome": "./biome.json"
 	},
 	"dependencies": {
-		"@biomejs/biome": "1.9.2",
+		"@biomejs/biome": "1.9.3",
 		"chokidar": "4.0.1",
 		"culori": "4.0.1",
 		"dotenv": "16.4.5",
