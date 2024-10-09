@@ -12,7 +12,7 @@
 		"url": "git@github.com:aversini/dev-dependencies.git"
 	},
 	"dependencies": {
-		"@rsbuild/core": "1.0.10",
+		"@rsbuild/core": "1.0.11",
 		"@rsbuild/plugin-react": "1.0.3",
 		"@rsbuild/plugin-type-check": "1.0.1",
 		"@testing-library/dom": "10.4.0",
