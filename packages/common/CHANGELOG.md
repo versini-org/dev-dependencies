@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.10](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-common-v4.1.9...dev-dependencies-common-v4.1.10) (2024-10-09)
+
+
+### Bug Fixes
+
+* bump non-breaking dependencies to latest ([#440](https://github.com/versini-org/dev-dependencies/issues/440)) ([a972d0c](https://github.com/versini-org/dev-dependencies/commit/a972d0c261cda7a3ab047854786561f7317e77b8))
+
 ## [4.1.9](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-common-v4.1.8...dev-dependencies-common-v4.1.9) (2024-10-07)
 
 

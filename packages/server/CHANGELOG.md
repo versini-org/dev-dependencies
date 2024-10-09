@@ -1,5 +1,14 @@
 # Changelog
 
+## [5.1.10](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-server-v5.1.9...dev-dependencies-server-v5.1.10) (2024-10-09)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @versini/dev-dependencies-common bumped to 4.1.10
+
 ## [5.1.9](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-server-v5.1.8...dev-dependencies-server-v5.1.9) (2024-10-07)
 
 
