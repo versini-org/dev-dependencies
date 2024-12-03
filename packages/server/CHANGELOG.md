@@ -1,5 +1,23 @@
 # Changelog
 
+## [6.0.0](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-server-v5.1.10...dev-dependencies-server-v6.0.0) (2024-12-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* Vite was bumped from 5.x to 6.x
+
+### Bug Fixes
+
+* bump some breaking dependencies to latest ([#473](https://github.com/versini-org/dev-dependencies/issues/473)) ([fe35c5d](https://github.com/versini-org/dev-dependencies/commit/fe35c5d8ac376dda9c321bc77f2f266c504f367d))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @versini/dev-dependencies-common bumped to 5.0.0
+
 ## [5.1.10](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-server-v5.1.9...dev-dependencies-server-v5.1.10) (2024-10-09)
 
 

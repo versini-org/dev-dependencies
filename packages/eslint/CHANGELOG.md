@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-eslint-v1.0.5...dev-dependencies-eslint-v2.0.0) (2024-12-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* Vite was bumped from 5.x to 6.x
+
+### Bug Fixes
+
+* bump some breaking dependencies to latest ([#473](https://github.com/versini-org/dev-dependencies/issues/473)) ([fe35c5d](https://github.com/versini-org/dev-dependencies/commit/fe35c5d8ac376dda9c321bc77f2f266c504f367d))
+
 ## [1.0.5](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-eslint-v1.0.4...dev-dependencies-eslint-v1.0.5) (2024-10-07)
 
 
