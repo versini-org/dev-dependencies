@@ -1,5 +1,23 @@
 # Changelog
 
+## [7.0.0](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-client-v6.0.8...dev-dependencies-client-v7.0.0) (2024-12-03)
+
+
+### ⚠ BREAKING CHANGES
+
+* Vite was bumped from 5.x to 6.x
+
+### Bug Fixes
+
+* bump some breaking dependencies to latest ([#473](https://github.com/versini-org/dev-dependencies/issues/473)) ([fe35c5d](https://github.com/versini-org/dev-dependencies/commit/fe35c5d8ac376dda9c321bc77f2f266c504f367d))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @versini/dev-dependencies-common bumped to 5.0.0
+
 ## [6.0.8](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-client-v6.0.7...dev-dependencies-client-v6.0.8) (2024-10-09)
 
 
