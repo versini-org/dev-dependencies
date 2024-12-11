@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-types-v2.0.2...dev-dependencies-types-v2.0.3) (2024-12-11)
+
+
+### Bug Fixes
+
+* revert to react 18.x types ([#480](https://github.com/versini-org/dev-dependencies/issues/480)) ([273662b](https://github.com/versini-org/dev-dependencies/commit/273662bfff60e6ab8c70dd231bd0803e3a5875ef))
+
 ## [2.0.2](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-types-v2.0.1...dev-dependencies-types-v2.0.2) (2024-12-11)
 
 
