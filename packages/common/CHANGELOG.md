@@ -1,5 +1,13 @@
 # Changelog
 
+## [5.0.1](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-common-v5.0.0...dev-dependencies-common-v5.0.1) (2024-12-11)
+
+
+### Bug Fixes
+
+* bump non-breaking dependencies to latest ([#477](https://github.com/versini-org/dev-dependencies/issues/477)) ([ffd14e9](https://github.com/versini-org/dev-dependencies/commit/ffd14e920bc057e7e2351bac4adc98061d7f6551))
+* bump non-breaking dependencies to latest ([#479](https://github.com/versini-org/dev-dependencies/issues/479)) ([0f8723c](https://github.com/versini-org/dev-dependencies/commit/0f8723ca6665e8d4b110561f58d56d0bf5691664))
+
 ## [5.0.0](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-common-v4.1.10...dev-dependencies-common-v5.0.0) (2024-12-03)
 
 
