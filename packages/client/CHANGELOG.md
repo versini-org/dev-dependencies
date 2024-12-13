@@ -1,5 +1,12 @@
 # Changelog
 
+## [7.0.2](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-client-v7.0.1...dev-dependencies-client-v7.0.2) (2024-12-13)
+
+
+### Bug Fixes
+
+* bump non-breaking dependencies to latest ([#482](https://github.com/versini-org/dev-dependencies/issues/482)) ([1353259](https://github.com/versini-org/dev-dependencies/commit/1353259fde84483abd7ed47af17d8c16dad40009))
+
 ## [7.0.1](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-client-v7.0.0...dev-dependencies-client-v7.0.1) (2024-12-11)
 
 
