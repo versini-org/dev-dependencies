@@ -1,7 +1,7 @@
 {
-	"packages/client": "7.0.1",
-	"packages/server": "6.0.1",
+	"packages/client": "7.0.2",
+	"packages/server": "6.0.2",
 	"packages/common": "5.0.1",
-	"packages/types": "2.0.3",
+	"packages/types": "3.0.0",
 	"packages/eslint": "2.0.0"
 }
