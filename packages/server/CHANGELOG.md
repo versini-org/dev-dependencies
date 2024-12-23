@@ -1,5 +1,14 @@
 # Changelog
 
+## [6.0.3](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-server-v6.0.2...dev-dependencies-server-v6.0.3) (2024-12-23)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @versini/dev-dependencies-common bumped to 5.0.2
+
 ## [6.0.2](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-server-v6.0.1...dev-dependencies-server-v6.0.2) (2024-12-13)
 
 
