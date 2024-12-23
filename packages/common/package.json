@@ -20,7 +20,7 @@
 	},
 	"dependencies": {
 		"@biomejs/biome": "1.9.4",
-		"chokidar": "4.0.1",
+		"chokidar": "4.0.3",
 		"culori": "4.0.1",
 		"dotenv": "16.4.7",
 		"fs-extra": "11.2.0",
