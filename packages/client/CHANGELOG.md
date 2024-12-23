@@ -1,5 +1,19 @@
 # Changelog
 
+## [7.0.3](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-client-v7.0.2...dev-dependencies-client-v7.0.3) (2024-12-23)
+
+
+### Bug Fixes
+
+* bump non-breaking dependencies to latest ([#485](https://github.com/versini-org/dev-dependencies/issues/485)) ([c0fbf59](https://github.com/versini-org/dev-dependencies/commit/c0fbf5979fd7441bf6fdbe89d98a49eb4237fe76))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @versini/dev-dependencies-common bumped to 5.0.2
+
 ## [7.0.2](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-client-v7.0.1...dev-dependencies-client-v7.0.2) (2024-12-13)
 
 
