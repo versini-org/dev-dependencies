@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-eslint-v2.0.0...dev-dependencies-eslint-v2.0.1) (2025-01-21)
+
+
+### Bug Fixes
+
+* bump non-breaking dependencies to latest ([#488](https://github.com/versini-org/dev-dependencies/issues/488)) ([213372d](https://github.com/versini-org/dev-dependencies/commit/213372d304a8634a410f88d6b6e3508e7a6b0418))
+
 ## [2.0.0](https://github.com/versini-org/dev-dependencies/compare/dev-dependencies-eslint-v1.0.5...dev-dependencies-eslint-v2.0.0) (2024-12-03)
 
 
